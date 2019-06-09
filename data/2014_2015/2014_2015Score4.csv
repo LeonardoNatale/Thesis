@@ -1,0 +1,230 @@
+n°,Giocatore,Squadra,Ruolo,P.S.,P.G,Media,Anno
+1,Azzimonti Edoardo ,G.S. Casoratese,C,595,30,"19,83",88.0
+2,Allegri Alessio ,O.S.L. Garbagnate,G/A,576,30,"19,20",82.0
+3,Ciardello Luca,BKBall Gallarate,G,495,30,"16,50",84.0
+4,Cattaneo Andrea ,Cistellum Cislago,A,483,30,"16,10",89.0
+5,Arui Alessandro,O.S.L. Garbagnate,P/G,482,30,"16,07",91.0
+6,Lombardi Paolo,BK Bosto Varese,P/G,480,26,"18,46",80.0
+7,Corona Navarro Rob.,G.S. Casoratese,G,452,28,"16,14",91.0
+8,Grampa Matteo,Virtus Cermenate,P,447,30,"14,90",91.0
+9,Bianchi Stefano ,BKBall Gallarate,P,442,30,"14,73",94.0
+10,Gianotti Davide,Basket Seregno,G/A,437,28,"15,61",90.0
+11,Bernasconi Andrea,Sportlandia Tradate,C,416,28,"14,86",84.0
+12,Roppo Simone,Cistellum Cislago,G,411,27,"15,22",89.0
+13,Pagani Davide,Mia Basket Groane,P,391,29,"13,48",87.0
+14,Pozzi Dario,Pol. Lierna,G,380,30,"12,67",86.0
+15,Mapelli Giorgio ,BK Cassano Magnago,A,374,26,"14,38",78.0
+16,Pifferi Cesare,Mia Basket Groane,A,371,29,"12,79",84.0
+17,Tonella Simone,O.S.L. Garbagnate,P/G,367,30,"12,23",88.0
+18,Molteni Marco,Pol. Lierna,A/C,365,26,"14,04",83.0
+19,Preatoni Vittorio ,G.S. Casoratese,A,364,29,"12,55",92.0
+20,De Tomasi Alessandro ,Pall. Cerro Maggiore,A/C,362,29,"12,48",80.0
+21,Pariani Marcello,BKBall Gallarate,C,349,30,"11,63",90.0
+22,Longhena Romei Giovanni,Pol. Ardor Bollate,G,348,30,"11,60",94.0
+23,Fontanel Fulvio,BK Bosto Varese,C,343,26,"13,19",70.0
+24,Pedalà Federico,Pol. Lierna,A,342,30,"11,40",90.0
+25,Zocchi Paolo,Pall. Cerro Maggiore,A/C,330,30,"11,00",82.0
+26,Munafò Thomas,Mia Basket Groane,P/G,327,26,"12,58",84.0
+27,Visini Matteo,Mia Basket Groane,A,325,29,"11,21",88.0
+28,Presentazi Andrea ,BK Bosto Varese,A,325,29,"11,21",92.0
+29,Fogato Francesco ,Sportlandia Tradate,P,324,28,"11,57",88.0
+30,Moscatelli Simone,Olimpia Cadorago,C,310,19,"16,32",78.0
+31,Bergna Luca,Pol. Lierna,A/C,306,28,"10,93",82.0
+32,Palazzi Niccolò,Pall. Verbano Luino,P,304,30,"10,13",92.0
+33,Laudi Andrea,BK Cassano Magnago,A,302,28,"10,79",79.0
+34,Beretta Giorgio,BK Cassano Magnago,A,302,28,"10,79",84.0
+35,Broggi Mattia,Virtus Cermenate,P,298,30,"9,93",92.0
+36,Brivio Andrea,Sportlandia Tradate,A,294,28,"10,50",88.0
+37,De Lucia Federico ,Pall. Cerro Maggiore,C,292,25,"11,68",89.0
+38,Ferrario Alessanfro,G.S. Casoratese,A/C,287,28,"10,25",89.0
+39,Marranzano Giorgio ,Pall. Cerro Maggiore,G/A,282,29,"9,72",80.0
+40,Marzorati Luca,Sportlandia Tradate,G/A,277,27,"10,26",87.0
+41,Poggiolini Riccardo ,BK Cassano Magnago,P/G,275,25,"11,00",86.0
+42,Bisognin Stefano,BK Bosto Varese,A/C,275,30,"9,17",92.0
+43,Mangiapane Fabio ,O.S.L. Garbagnate,G,269,26,"10,35",86.0
+44,Parietti Matteo ,Cistellum Cislago,P,268,18,"14,89",91.0
+45,Gardini Andrea,Pall. Verbano Luino,A,268,29,"9,24",94.0
+46,Eriforio Luca,Cistellum Cislago,G,267,29,"9,21",91.0
+47,Bottinelli Luca,Basket Rovello,A,263,28,"9,39",89.0
+48,Binaghi Gabriele,Pol. Ardor Bollate,A/C,258,30,"8,60",79.0
+49,Picotti Stefano ,BKBall Gallarate,P,258,30,"8,60",89.0
+50,Bianchi Antonio,BK Cassano Magnago,G,257,19,"13,53",85.0
+51,Carpani Silvio,Pol. Lierna,G/A,256,29,"8,83",89.0
+52,Lanzi Lorenzo,Basket Rovello,P,252,27,"9,33",92.0
+53,Villa Lorenzo,Pol. Ardor Bollate,G,246,27,"9,11",84.0
+54,Scarioni Stefano,Olimpia Cadorago,G,246,27,"9,11",92.0
+55,Gubbitta Mattia,Pall. Verbano Luino,A,246,28,"8,79",82.0
+56,Bacuzzi Valerio,Olimpia Cadorago,C,235,29,"8,10",91.0
+57,Smaniotto Simone,Pol. Lierna,P,235,30,"7,83",91.0
+58,Longoni Alessandro,Virtus Cermenate,A,233,30,"7,77",95.0
+59,Biason Marco,Pall. Verbano Luino,A/C,231,28,"8,25",83.0
+60,Danesi Emanuele,Pol. Ardor Bollate,G/A,230,26,"8,85",91.0
+61,Turconi Matteo,Sportlandia Tradate,G/A,230,29,"7,93",80.0
+62,Silva Marco,Basket Seregno,G/A,229,26,"8,81",91.0
+63,Meroni Marco,Virtus Cermenate,C,229,30,"7,63",93.0
+64,Bonvino Matteo,Virtus Cermenate,A,228,30,"7,60",95.0
+65,Terraneo Davide,Basket Rovello,P/G,226,26,"8,69",83.0
+66,Anselmi Andrea,Sportlandia Tradate,G,224,27,"8,30",82.0
+67,Del Pero Gabriele,Basket Rovello,P,223,28,"7,96",94.0
+68,Grillo Fabio,Pall. Cerro Maggiore,P/G,222,23,"9,65",89.0
+69,Saibene Nicolò,Cistellum Cislago,G,219,30,"7,30",93.0
+70,Tocchella Diego ,BK Bosto Varese,G/A,218,29,"7,52",82.0
+71,Bini Lorenzo,BK Cassano Magnago,G,217,26,"8,35",79.0
+72,Cogliati Stefano,G.S. Casoratese,P,214,29,"7,38",92.0
+73,Zacchello Paolo ,Pall. Cerro Maggiore,A,214,30,"7,13",79.0
+74,Casati Mattia,Basket Seregno,A,204,28,"7,29",80.0
+75,Barbisan Massimo,Basket Rovello,A,194,27,"7,19",93.0
+76,Puricelli Daniele ,BKBall Gallarate,A,190,26,"7,31",94.0
+77,Novati Marco,Mia Basket Groane,A,186,29,"6,41",94.0
+78,Castoldi Luca,Pol. Lierna,C,184,30,"6,13",86.0
+79,Meroni Marco,Mia Basket Groane,C,182,29,"6,28",88.0
+80,Moretti Mattia,O.S.L. Garbagnate,A/C,178,29,"6,14",90.0
+81,Terreran Tommaso,Olimpia Cadorago,P,177,23,"7,70",82.0
+82,Del Torchio Riccardo,BK Cassano Magnago,C,177,28,"6,32",76.0
+83,Gandolfi Matteo ,BK Cassano Magnago,P/G,176,22,"8,00",85.0
+84,Cipriano Giuseppe,Olimpia Cadorago,A,176,27,"6,52",93.0
+85,Maina Roberto,O.S.L. Garbagnate,A/C,175,27,"6,48",86.0
+86,Bosa Andrea,Basket Rovello,G,167,25,"6,68",88.0
+87,Castiglioni Luca ,Sportlandia Tradate,P,166,29,"5,72",96.0
+88,Agazzone Andrea,Pall. Verbano Luino,C,165,23,"7,17",79.0
+89,Veronelli Paolo,Pol. Ardor Bollate,G,165,25,"6,60",86.0
+90,Crisci Nicola,Mia Basket Groane,C,164,24,"6,83",78.0
+91,Papatolo Nunzio,Virtus Cermenate,G,164,29,"5,66",87.0
+92,Cassano Michele ,Pall. Cerro Maggiore,P,156,23,"6,78",91.0
+93,Radaelli Andrea,Basket Seregno,P/G,155,17,"9,12",85.0
+94,Villa Lorenzo,Virtus Cermenate,A,154,30,"5,13",95.0
+95,Riley Jarred,Olimpia Cadorago,C,148,10,"14,80",89.0
+96,Aresi Stefano,Mia Basket Groane,G,148,26,"5,69",86.0
+97,Galluccio Nicolas,Pall. Verbano Luino,A/C,146,27,"5,41",94.0
+98,Bucossi Riccardo,Basket Seregno,C,145,27,"5,37",82.0
+99,Chiodaroli Diego ,Cistellum Cislago,A,144,28,"5,14",82.0
+100,Calcagno Marco,Pall. Verbano Luino,C,142,15,"9,47",94.0
+101,Tornari Matteo,Virtus Cermenate,P/G,141,30,"4,70",95.0
+102,Losa Riccardo,Basket Rovello,G/A,139,27,"5,15",94.0
+103,Gorini Andrea,BK Bosto Varese,P/G,138,16,"8,63",81.0
+104,Bordignon Livio ,G.S. Casoratese,C,138,28,"4,93",84.0
+105,Gurioli Gianluca,Cistellum Cislago,A,137,13,"10,54",83.0
+106,Cardani Gianluca,Virtus Cermenate,G,137,24,"5,71",92.0
+107,Corengia Stefano,Basket Seregno,G,137,24,"5,71",94.0
+108,Bianchi Carlo,BK Cassano Magnago,G/A,137,26,"5,27",82.0
+109,Malberti Mattia,Virtus Cermenate,A,136,17,"8,00",94.0
+110,Amadio Daniele,Basket Rovello,G,136,23,"5,91",84.0
+111,Bosello Davide,G.S. Casoratese,A,134,25,"5,36",94.0
+112,Marusic Stefano,Olimpia Cadorago,P,126,25,"5,04",95.0
+113,Barella Andrea,O.S.L. Garbagnate,A,126,26,"4,85",89.0
+114,Frigerio Andrea,Basket Seregno,P,118,16,"7,38",82.0
+115,Tarabini Matteo,Pol. Ardor Bollate,C,116,26,"4,46",86.0
+116,Borghi Giorgio,Basket Rovello,A,116,27,"4,30",92.0
+117,Febbrini Francesco,Pol. Ardor Bollate,G,113,23,"4,91",93.0
+118,Gatto Cristian,BKBall Gallarate,A,108,25,"4,32",96.0
+119,Moscatelli Marco,Basket Rovello,G/A,104,25,"4,16",93.0
+120,Lazzati Emanuele,Pol. Ardor Bollate,G,103,23,"4,48",82.0
+121,Brighina Alexandro,BK Bosto Varese,P/G,100,15,"6,67",82.0
+122,Cattaneo Cristian,Sportlandia Tradate,A,100,19,"5,26",96.0
+123,Pastori Jacopo,Pall. Cerro Maggiore,C,98,26,"3,77",95.0
+124,Missoni Ottavio ,BK Bosto Varese,C,97,22,"4,41",84.0
+125,Franzini Andrea ,Pall. Verbano Luino,A,96,7,"13,71",86.0
+126,Gentile Stefano ,BKBall Gallarate,G,94,23,"4,09",91.0
+127,Farina Matteo,Basket Seregno,C,94,28,"3,36",87.0
+128,Mitrano Luca,Pol. Ardor Bollate,G,94,29,"3,24",96.0
+129,Manfrè Alessio,Pall. Verbano Luino,P/G,93,22,"4,23",87.0
+130,Meraviglia Andrea ,Cistellum Cislago,C,92,29,"3,17",83.0
+131,De Prati Carcereri Simone,Basket Seregno,G,88,25,"3,52",95.0
+132,Colombo Riccardo,Mia Basket Groane,C,86,13,"6,62",84.0
+133,Marotto Leonardo,BK Bosto Varese,P/G,86,27,"3,19",95.0
+134,Porro Nicholas,Basket Rovello,A/C,85,28,"3,04",86.0
+135,Bernardi,Basket Seregno,,82,13,"6,31",
+136,Sassi Manuel,Pol. Ardor Bollate,G,82,19,"4,32",89.0
+137,Cola Francesco,BKBall Gallarate,A,82,27,"3,04",84.0
+138,Canavesi Luca,BKBall Gallarate,A/C,80,8,"10,00",89.0
+139,Rigamonti Marco,Pol. Lierna,G,78,28,"2,79",95.0
+140,Mancini Stefano ,G.S. Casoratese,P,77,24,"3,21",84.0
+141,Fossati Davide,Basket Seregno,C,75,21,"3,57",90.0
+142,Cesana Paolo,Olimpia Cadorago,C,74,10,"7,40",93.0
+143,Ripamonti Jacopo ,O.S.L. Garbagnate,P,73,29,"2,52",94.0
+144,Marcon Davide,Pall. Cerro Maggiore,G,69,24,"2,88",93.0
+145,Bartesaghi Matteo,Mia Basket Groane,A,58,15,"3,87",92.0
+146,Acerbi Andrea,Sportlandia Tradate,G,58,21,"2,76",93.0
+147,Colombo Oscar,Pall. Verbano Luino,P/G,58,24,"2,42",95.0
+148,Gagliardi Edoardo,Sportlandia Tradate,P,57,27,"2,11",94.0
+149,Ciccullo Marco,Pall. Verbano Luino,A,54,15,"3,60",93.0
+150,Negri Luca,Pol. Lierna,A,53,19,"2,79",93.0
+151,Iannaccio Stefano,O.S.L. Garbagnate,G/A,53,20,"2,65",92.0
+152,Calloni Roberto,Pol. Ardor Bollate,A/C,50,13,"3,85",94.0
+153,Avduli Endri,Pol. Lierna,A,50,22,"2,27",94.0
+154,Morandi Francesco ,Cistellum Cislago,G,47,19,"2,47",94.0
+155,Barbera Lorenzo ,G.S. Casoratese,G,46,24,"1,92",96.0
+156,Gorla Tommaso,Olimpia Cadorago,G,45,19,"2,37",93.0
+157,Erba Davide,Basket Rovello,C,45,23,"1,96",95.0
+158,Mitrano Roberto,Pol. Ardor Bollate,G,44,19,"2,32",93.0
+159,Bianchi Federico,Basket Rovello,A/C,44,20,"2,20",96.0
+160,Marku Forget,BKBall Gallarate,C,41,17,"2,41",92.0
+161,De Vita Gianmarco,BKBall Gallarate,A,40,8,"5,00",97.0
+162,Zanatta Marco,BK Bosto Varese,C,40,13,"3,08",81.0
+163,Caglio Federico,Pol. Lierna,P/G,40,15,"2,67",94.0
+164,Bianchi Omar,Virtus Cermenate,C,40,24,"1,67",96.0
+165,Gugliotta Oscar,Olimpia Cadorago,A,38,4,"9,50",82.0
+166,Sandrinelli Luca,BK Bosto Varese,A,37,9,"4,11",97.0
+167,Pigoli Roberto,Basket Seregno,A,37,16,"2,31",91.0
+168,Boniforti Federico ,Pall. Cerro Maggiore,C,37,19,"1,95",93.0
+169,Cecco Paolo,Pall. Verbano Luino,A/C,35,15,"2,33",84.0
+170,Peruzzi Alessandro,Pall. Verbano Luino,G,35,26,"1,35",95.0
+171,Grieco Federico,BK Bosto Varese,A/C,34,23,"1,48",95.0
+172,Cattaneo Alberto,Olimpia Cadorago,C,31,20,"1,55",82.0
+173,Brambilla Filippo,Mia Basket Groane,P,29,20,"1,45",95.0
+174,Restelli Alessandro,Olimpia Cadorago,G,28,14,"2,00",97.0
+175,Quaglia Marcello,BKBall Gallarate,P,26,19,"1,37",96.0
+176,Churato Paolo,Olimpia Cadorago,P,25,13,"1,92",98.0
+177,Bonesini Lorenzo,Pall. Cerro Maggiore,G,24,10,"2,40",94.0
+178,Traore William,Pol. Ardor Bollate,C,24,13,"1,85",94.0
+179,Bigoni,Cistellum Cislago,,23,10,"2,30",
+180,Redaelli Francesco,Pol. Lierna,A/C,22,10,"2,20",85.0
+181,Dalla Valle Gabriele ,BK Cassano Magnago,G,21,15,"1,40",95.0
+182,Figuriello Jacopo ,Sportlandia Tradate,P,21,18,"1,17",96.0
+183,Gravena Pedro,Pol. Ardor Bollate,,20,7,"2,86",97.0
+184,Battistini Tommaso,BK Bosto Varese,G,20,9,"2,22",95.0
+185,Bonicalzi Marco,BK Cassano Magnago,G/A,18,10,"1,80",95.0
+186,Leontini,G.S. Casoratese,A,17,12,"1,42",
+187,Angeretti Mauro,Mia Basket Groane,G,16,5,"3,20",93.0
+188,Butti Marcello,Pol. Lierna,P,16,19,"0,84",96.0
+189,Maiocchi Davide,G.S. Casoratese,A,15,6,"2,50",95.0
+190,Piotto,Pol. Ardor Bollate,,15,8,"1,88",97.0
+191,Gottardello Alessandro,Sportlandia Tradate,C,15,18,"0,83",93.0
+192,Passarini,Pol. Ardor Bollate,,14,7,"2,00",94.0
+193,Rebughini Davide,Pol. Lierna,G,13,10,"1,30",92.0
+194,De Santi Andrea,Pall. Verbano Luino,GA,12,4,"3,00",96.0
+195,Vitella Luca,Pall. Verbano Luino,P/G,11,8,"1,38",
+196,Puricelli Matteo,BK Cassano Magnago,G,11,14,"0,79",97.0
+197,Pacchetti Stefano ,O.S.L. Garbagnate,C,11,20,"0,55",80.0
+198,Turconi Alessandro,Pall. Verbano Luino,P/G,10,7,"1,43",79.0
+199,Pedemonte Alessandro,BKBall Gallarate,P/G,9,4,"2,25",84.0
+200,Longoni Paolo,Basket Seregno,C,9,7,"1,29",77.0
+201,Nobili Giulio,Basket Seregno,G,8,1,"8,00",84.0
+202,Colella Alessandro ,O.S.L. Garbagnate,A,8,10,"0,80",96.0
+203,Dugo,Mia Basket Groane,,8,10,"0,80",
+204,Pagny Daniele,BKBall Gallarate,C,7,5,"1,40",96.0
+205,Gallian Davide,BKBall Gallarate,P,7,10,"0,70",96.0
+206,Zucchetti,Pol. Ardor Bollate,,6,1,"6,00",
+207,Bellora Matteo,BKBall Gallarate,C,6,6,"1,00",95.0
+208,Giani,Basket Seregno,,5,2,"2,50",
+209,Monteggia Mattia,Pall. Verbano Luino,P/G,5,3,"1,67",93.0
+210,Tomasini Luca,BKBall Gallarate,G,5,7,"0,71",97.0
+211,Holley Rome,Olimpia Cadorago,P,4,5,"0,80",81.0
+212,Ripamonti P.,O.S.L. Garbagnate,,4,8,"0,50",
+213,Di Prenda Matteo,Olimpia Cadorago,C,4,10,"0,40",95.0
+214,Chimini,Pall. Verbano Luino,,3,1,"3,00",
+215,Milani,O.S.L. Garbagnate,,3,4,"0,75",
+216,Carettoni Daniele,G.S. Casoratese,C,3,6,"0,50",83.0
+217,Filoni Andrea,Cistellum Cislago,A,3,8,"0,38",95.0
+218,Presentazzi Alessandro,BK Bosto Varese,G/A,3,8,"0,38",94.0
+219,Galliani Fabio,Mia Basket Groane,G,3,11,"0,27",96.0
+220,Qorri alex,Basket Seregno,G/A,2,2,"1,00",96.0
+221,Bna,Cistellum Cislago,,2,2,"1,00",
+222,Ghirelli Francesco,Mia Basket Groane,G,2,3,"0,67",97.0
+223,Gabatel,Basket Seregno,,2,4,"0,50",
+224,Ghirelli Andrea,Mia Basket Groane,G,2,4,"0,50",96.0
+225,Sampietro Fabio,Olimpia Cadorago,G,2,6,"0,33",98.0
+226,Piatti Carlo,BK Bosto Varese,G/A,2,7,"0,29",94.0
+227,Zambotto,BK Cassano Magnago,,1,1,"1,00",
+228,Bordignon Francesco,BK Cassano Magnago,P,1,10,"0,10",97.0
+229,Gnecchi Davide,Pol. Lierna,G/A,1,15,"0,07",95.0

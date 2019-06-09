@@ -1,0 +1,188 @@
+n°,Giocatore,Squadra,Ruolo,P.S.,P.G,Media,Anno
+1,Raskovic Marko,US Dil. Basket Rosmini,C,583,26,"22,42",86.0
+2,Delibasic Milos,Basket Follo A. Dil.,P/G,454,24,"18,92",95.0
+3,Marcello Massimiliano,Amatori Basket Savigliano,G/A,430,26,"16,54",76.0
+4,Seravalli Matteo,Spezia Basket  Club A.Dil.,P/G,429,26,"16,50",91.0
+5,Malagoli Riccardo,PGS Don Bosco Crocetta,C,418,25,"16,72",88.0
+6,Realini Maurizio,US Dil. Basket Rosmini,P/G/A,377,24,"15,71",83.0
+7,Favario Djbril,PGS Don Bosco Crocetta,G/A,350,26,"13,46",90.0
+8,Negro Marco,Olimpo Basket Alba,A/C,349,26,"13,42",93.0
+9,Scrocco Stefano,ASD Basket Club Trecate,A,342,26,"13,15",77.0
+10,Zanelli Davide,Olimpo Basket Alba,G/A,340,26,"13,08",93.0
+11,Foti Fabrizio,US Dil. Basket Rosmini,P,334,26,"12,85",88.0
+12,Russo Andrea,Basket Follo A. Dil.,G,331,25,"13,24",90.0
+13,Ferrari Manuel,Spezia Basket  Club A.Dil.,A,330,26,"12,69",82.0
+14,Draghici Radu Mihai,Basket Team 71,G,326,26,"12,54",90.0
+15,Taverna Massimo,ASD Basket Club Serravalle,P/G/A,321,22,"14,59",91.0
+16,Antonietti Luca,PGS Don Bosco Crocetta,G/A,320,25,"12,80",94.0
+17,Santoni Samuele,Spezia Basket  Club A.Dil.,P/G/A,315,17,"18,53",88.0
+18,Casettari Andrea,Basket Follo A. Dil.,C,315,25,"12,60",85.0
+19,Colombo Stefano,ASD Basket Club Trecate,C,315,26,"12,12",95.0
+20,Bigoni Roberto,Cus Genova AS Dil.,A,308,26,"11,85",88.0
+21,Billi Lorenzo,AS Dil. Il Canestro,P/G,295,24,"12,29",97.0
+22,Peroni Riccardo Alberto,ASD Basket Club Trecate,G/A,289,26,"11,12",92.0
+23,Agbogan Allen,Pall. Moncalieri S. Mauro,P,288,25,"11,52",97.0
+24,Tarditi Emanuele,Basket Team 71,C,280,26,"10,77",93.0
+25,Sacco Mattia,Amatori Basket Savigliano,A,272,21,"12,95",94.0
+26,Markus Nikola,Basket Pool 2000 Asd,A,270,23,"11,74",96.0
+27,Pollone Luca,AS Dil. Cestistica Biella,G,268,21,"12,76",97.0
+28,Gay Dario,Basket Pool 2000 Asd,P/G,268,25,"10,72",96.0
+29,Di Bonaventura Giorgio,Pall. Moncalieri S. Mauro,G/A,258,25,"10,32",97.0
+30,Serafin Luca,ASD Basket Club Serravalle,P/G/A,255,24,"10,63",88.0
+31,Piano Andrea,Olimpo Basket Alba,P/G,253,21,"12,05",92.0
+32,Ceccarelli Marco,PGS Don Bosco Crocetta,G,252,25,"10,08",91.0
+33,Marotto Enrico,ASD Basket Club Serravalle,G/A,248,26,"9,54",93.0
+34,Nesti Edoardo,Spezia Basket  Club A.Dil.,A,247,20,"12,35",78.0
+35,Gonzato Simone,AS Dil. Cestistica Biella,A,247,26,"9,50",95.0
+36,Bedini Angelo,Cus Genova AS Dil.,G,241,19,"12,68",90.0
+37,Petricca Francesco,US Dil. Basket Rosmini,G/A,241,25,"9,64",85.0
+38,Vangelov Nikolay,Pall. Moncalieri S. Mauro,C,237,22,"10,77",96.0
+39,Mangione Marcello,Cus Genova AS Dil.,A,237,26,"9,12",91.0
+40,Rispoli Andrea,PGS Don Bosco Crocetta,P,231,25,"9,24",86.0
+41,Cagliero Alessandro,Basket Team 71,A,230,26,"8,85",92.0
+42,Mozzi Eracle,ASD Basket Club Serravalle,C,222,26,"8,54",89.0
+43,Giusto Filippo,Amatori Basket Savigliano,P,217,21,"10,33",89.0
+44,Zunino Marco,ASD Basket Club Serravalle,P,216,21,"10,29",92.0
+45,Macrì Emanuele,Cus Genova AS Dil.,P,215,24,"8,96",95.0
+46,Sena Nicolò,Amatori Basket Savigliano,P,213,26,"8,19",94.0
+47,Gerli Emanuele,ASD Basket Club Trecate,C,208,24,"8,67",90.0
+48,Pichi Tommaso,Pall. Moncalieri S. Mauro,G/A,202,23,"8,78",96.0
+49,Gallo Paolo,Olimpo Basket Alba,A/C,200,13,"15,38",90.0
+50,Frattallone Marco,AS Dil. Il Canestro,A,198,25,"7,92",96.0
+51,Tava Edoardo,AS Dil. Il Canestro,G,196,23,"8,52",96.0
+52,Baiardo Alberto,Cus Genova AS Dil.,G,196,26,"7,54",95.0
+53,Rampone Andrea,Basket Team 71,G,193,20,"9,65",92.0
+54,Nicolucci Alessaìndro,Amatori Basket Savigliano,P,192,26,"7,38",92.0
+55,Persano Guglielmo,Basket Pool 2000 Asd,A,188,22,"8,55",96.0
+56,Brussolo Edoardo,AS Dil. Il Canestro,A,188,24,"7,83",94.0
+57,Vitali Michele,Basket Team 71,P,187,24,"7,79",94.0
+58,Chiavassa Marco,AS Dil. Cestistica Biella,A/C,186,25,"7,44",96.0
+59,Cerutti Simone,US Dil. Basket Rosmini,G,185,26,"7,12",88.0
+60,Cortese Luca,Basket Team 71,G/A,184,26,"7,08",96.0
+61,Dufour Marco,Cus Genova AS Dil.,G,181,23,"7,87",89.0
+62,Wheatle Carl Anton Deroy,AS Dil. Cestistica Biella,G/A,180,16,"11,25",98.0
+63,Cambrin Rege Francesco,Basket Follo A. Dil.,A/C,179,25,"7,16",97.0
+64,Martina Christian,PGS Don Bosco Crocetta,P,175,26,"6,73",92.0
+65,Laquintana Giovanni,Spezia Basket  Club A.Dil.,,172,11,"15,64",
+66,Cognigni Filippo,Basket Pool 2000 Asd,G,169,24,"7,04",97.0
+67,Zavaglio Nicolò,Basket Pool 2000 Asd,P,167,26,"6,42",96.0
+68,Steffanini Nicolò,Basket Follo A. Dil.,G/A,165,21,"7,86",91.0
+69,Lavagno Davide,ASD Basket Club Serravalle,G,158,20,"7,90",85.0
+70,Cantone Andrea,ASD Basket Club Trecate,G,157,19,"8,26",88.0
+71,Dello Iacovo Lorenzo,AS Dil. Cestistica Biella,P,154,17,"9,06",96.0
+72,Castillo Edwin,Olimpo Basket Alba,P,151,25,"6,04",84.0
+73,De La Cruz Raul,Basket Follo A. Dil.,P/G,151,25,"6,04",94.0
+74,Fazio Lorenzo,Spezia Basket  Club A.Dil.,C,149,26,"5,73",93.0
+75,Riva Riccardo,AS Dil. Il Canestro,,147,17,"8,65",
+76,Pipolo Mattia,Spezia Basket  Club A.Dil.,P,143,25,"5,72",91.0
+77,Russo Matteo,Basket Follo A. Dil.,,139,11,"12,64",
+78,Baruzzo Stefano,Basket Team 71,G,139,26,"5,35",91.0
+79,Fiore Ares,Pall. Moncalieri S. Mauro,P,137,16,"8,56",94.0
+80,Carosi Andrea,AS Dil. Il Canestro,,137,20,"6,85",
+81,Balestrieri Giacomo,AS Dil. Il Canestro,G,135,23,"5,87",96.0
+82,Larizzate Federico,ASD Basket Club Trecate,P,134,26,"5,15",88.0
+83,Facchino Danny,Pall. Moncalieri S. Mauro,G,131,21,"6,24",96.0
+84,Margheri Nicolò,Olimpo Basket Alba,G/A,130,18,"7,22",90.0
+85,Agbogan Marvin,Amatori Basket Savigliano,G/A,128,26,"4,92",94.0
+86,Cacace Alberto,Basket Pool 2000 Asd,G/A,126,12,"10,50",96.0
+87,Bonadeo Andrea,ASD Basket Club Serravalle,A,125,20,"6,25",83.0
+88,Mascolo Bruno,Pall. Moncalieri S. Mauro,P,124,9,"13,78",96.0
+89,De Tomasi Luca,US Dil. Basket Rosmini,P,122,26,"4,69",92.0
+90,Baldasso Tommaso,Pall. Moncalieri S. Mauro,G,119,11,"10,82",98.0
+91,Della Piana Enrico,Olimpo Basket Alba,A,119,22,"5,41",78.0
+92,Gramaglia Enrico,Basket Team 71,A,119,23,"5,17",83.0
+93,Maestrone Matteo,US Dil. Basket Rosmini,G/A,118,25,"4,72",86.0
+94,De Palma Gaetano,AS Dil. Il Canestro,G/A,117,25,"4,68",86.0
+95,Gatti Edoardo,AS Dil. Cestistica Biella,G,114,18,"6,33",97.0
+96,Fortini Stefano,ASD Basket Club Trecate,A,114,22,"5,18",91.0
+97,Antonietti Federico,PGS Don Bosco Crocetta,A/C,113,26,"4,35",94.0
+98,Mondino Paolo,Amatori Basket Savigliano,G/A,111,26,"4,27",92.0
+99,Guaccio Angelo,Basket Pool 2000 Asd,A,108,17,"6,35",98.0
+100,Dal Padulo Luca,Spezia Basket  Club A.Dil.,G/A,107,26,"4,12",93.0
+101,Testa Andrea,Amatori Basket Savigliano,P/G,101,25,"4,04",87.0
+102,Gorini Davide,Cus Genova AS Dil.,G,100,18,"5,56",77.0
+103,Di Gioia Carlo,Olimpo Basket Alba,C,99,15,"6,60",76.0
+104,Patria Paolo,Cus Genova AS Dil.,A/C,97,14,"6,93",77.0
+105,Rauti Mario,Pall. Moncalieri S. Mauro,G,97,20,"4,85",96.0
+106,Gatto Fabrizio,Basket Team 71,G/A,95,24,"3,96",87.0
+107,Marchini Davide,Spezia Basket  Club A.Dil.,,94,11,"8,55",
+108,Francione Roberto,PGS Don Bosco Crocetta,G,94,20,"4,70",93.0
+109,Magnone Vincenzo,ASD Basket Club Serravalle,C,93,13,"7,15",79.0
+110,Blotto Giovanni,AS Dil. Cestistica Biella,G,93,22,"4,23",96.0
+111,Bergui Edoardo,Olimpo Basket Alba,P/G,91,21,"4,33",92.0
+112,Nicoletti Lorenzo,Basket Pool 2000 Asd,G/A,88,24,"3,67",96.0
+113,Gambaro Gabriele,ASD Basket Club Trecate,A/C,87,26,"3,35",88.0
+114,Bovone Jacopo,ASD Basket Club Serravalle,G/A,86,23,"3,74",90.0
+115,Massone Federico,AS Dil. Cestistica Biella,G,83,13,"6,38",96.0
+116,Denegri Davide,ASD Basket Club Serravalle,,80,18,"4,44",
+117,Cavallaro Gianluca,Basket Pool 2000 Asd,G,78,15,"5,20",96.0
+118,Maffeo Martino,AS Dil. Cestistica Biella,A,76,11,"6,91",96.0
+119,Thiebat Francesco,AS Dil. Cestistica Biella,G,76,16,"4,75",97.0
+120,Calzavara Diego,Basket Team 71,,75,6,"12,50",
+121,Bagna Ouro,AS Dil. Cestistica Biella,,75,18,"4,17",
+122,Morando Nicolò,AS Dil. Il Canestro,P,74,10,"7,40",96.0
+123,Scaglia Nicolò,ASD Basket Club Trecate,P,73,23,"3,17",95.0
+124,Dzigal Rijad,Basket Pool 2000 Asd,,64,14,"4,57",
+125,Pilati Christian,AS Dil. Il Canestro,C,61,22,"2,77",97.0
+126,Bertotti Cristian,AS Dil. Cestistica Biella,G,59,11,"5,36",97.0
+127,Trovato Matteo,Pall. Moncalieri S. Mauro,,59,13,"4,54",
+128,De Pippo Silvio,Basket Pool 2000 Asd,A/C,58,7,"8,29",96.0
+129,Vivente Jose Benitez Alberto,Basket Follo A. Dil.,P/G,56,23,"2,43",97.0
+130,Bestagno Edoardo,Cus Genova AS Dil.,P/G,56,26,"2,15",88.0
+131,Capecchi Francesco,Cus Genova AS Dil.,G/A,53,11,"4,82",90.0
+132,Eirale Marcello,Olimpo Basket Alba,P,50,15,"3,33",97.0
+133,Meroni Federico,Cus Genova AS Dil.,,50,22,"2,27",95.0
+134,Pavone Matteo,AS Dil. Cestistica Biella,,47,16,"2,94",
+135,Bedini Fabio,Cus Genova AS Dil.,P,46,9,"5,11",95.0
+136,Tardivi Nicola,Basket Follo A. Dil.,A,46,15,"3,07",96.0
+137,Magnone Andrea,ASD Basket Club Serravalle,G/A,45,9,"5,00",83.0
+138,Lentini Valerio,Basket Pool 2000 Asd,A,44,16,"2,75",97.0
+139,Bergese Federico,Pall. Moncalieri S. Mauro,G/A,40,16,"2,50",96.0
+140,Stassi Davide,Amatori Basket Savigliano,,39,13,"3,00",
+141,Sasso Lorenzo,AS Dil. Cestistica Biella,P,37,11,"3,36",97.0
+142,Frank Alberto,US Dil. Basket Rosmini,,36,20,"1,80",
+143,Mavelli Rocco,Basket Follo A. Dil.,A,34,7,"4,86",94.0
+144,Calabrese Leonardo,AS Dil. Cestistica Biella,,32,6,"5,33",
+145,Bonelli Mattia,PGS Don Bosco Crocetta,P,32,15,"2,13",94.0
+146,Barraz Amin,Pall. Moncalieri S. Mauro,G,31,12,"2,58",96.0
+147,Amateis Federico,Amatori Basket Savigliano,,29,7,"4,14",
+148,Realini Enrico,US Dil. Basket Rosmini,P,29,11,"2,64",91.0
+149,Brando Rocco,Olimpo Basket Alba,A/C,26,10,"2,60",80.0
+150,Amodio Alessandro,ASD Basket Club Trecate,G/A,25,12,"2,08",87.0
+151,Ferraris Giovanni,PGS Don Bosco Crocetta,G/A,23,16,"1,44",95.0
+152,Parodi Mattia,ASD Basket Club Serravalle,P,22,18,"1,22",95.0
+153,Cappello Davide,Olimpo Basket Alba,C,21,10,"2,10",96.0
+154,Maglio Andrea,US Dil. Basket Rosmini,G/A,18,13,"1,38",94.0
+155,Neri Matteo,Pall. Moncalieri S. Mauro,,16,8,"2,00",
+156,Giuggia Sanuele,Basket Team 71,,16,10,"1,60",
+157,Rinaldi,Basket Follo A. Dil.,,14,1,"14,00",
+158,Fassio Gianluca,Olimpo Basket Alba,,14,11,"1,27",
+159,Steffanini Lorenzo,Basket Follo A. Dil.,G,14,11,"1,27",97.0
+160,Garavaglia Samuele,ASD Basket Club Trecate,A,14,17,"0,82",95.0
+161,Tomatis Federico,Pall. Moncalieri S. Mauro,,13,12,"1,08",
+162,Marletta Gabriele,AS Dil. Cestistica Biella,,10,3,"3,33",
+163,Conte Tommaso,Pall. Moncalieri S. Mauro,,10,5,"2,00",
+164,Bottero Alessandro,Basket Team 71,,10,8,"1,25",
+165,Scarpa Gabriele,Basket Follo A. Dil.,G,9,6,"1,50",95.0
+166,Giachi Simone,Spezia Basket  Club A.Dil.,G/A,8,4,"2,00",84.0
+167,Giorgi Emanuele,Basket Pool 2000 Asd,,8,8,"1,00",
+168,Cepollina Matteo,ASD Basket Club Serravalle,G,6,3,"2,00",94.0
+169,Diakhate Badara,Spezia Basket  Club A.Dil.,C,6,7,"0,86",94.0
+170,Mucuta Alin,Olimpo Basket Alba,G,6,8,"0,75",96.0
+171,Bianchi Andrea,Pall. Moncalieri S. Mauro,A,6,13,"0,46",96.0
+172,Cappello Davide,Olimpo Basket Alba,A/C,5,3,"1,67",
+173,Gatti Roberto,AS Dil. Il Canestro,A/C,4,3,"1,33",96.0
+174,Pieroni Riccardo,AS Dil. Il Canestro,G/A,4,4,"1,00",96.0
+175,Nebbia Colomba Emanuele,Spezia Basket  Club A.Dil.,A/C,4,4,"1,00",95.0
+176,Manzini Gianluca,Spezia Basket  Club A.Dil.,G,4,6,"0,67",95.0
+177,Bucci Marco,Spezia Basket  Club A.Dil.,G,4,12,"0,33",94.0
+178,Comollo Flavio,Pall. Moncalieri S. Mauro,,3,4,"0,75",
+179,Gallo Andrea,Amatori Basket Savigliano,G/A,3,8,"0,38",97.0
+180,De Bernardi Gabriele Maria,Basket Follo A. Dil.,,2,1,"2,00",
+181,Vallefuoco Stefano,Basket Pool 2000 Asd,,2,1,"2,00",
+182,Pasqualin Samuele,PGS Don Bosco Crocetta,G,2,1,"2,00",98.0
+183,Pozzi Alessandro,PGS Don Bosco Crocetta,,2,1,"2,00",
+184,D'Imporzano Federico,Basket Follo A. Dil.,G/A,2,2,"1,00",97.0
+185,Leqejza Xhovano,ASD Basket Club Trecate,,2,3,"0,67",
+186,Appendino Marco,Amatori Basket Savigliano,G/A,2,5,"0,40",96.0
+187,Pedrelli Giacomo,Spezia Basket  Club A.Dil.,G,1,1,"1,00",96.0

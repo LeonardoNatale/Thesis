@@ -1,0 +1,186 @@
+n°,Giocatore,Squadra,Ruolo,P.S.,P.G,Media,Anno
+1,Terzaghi Manuel,BK 7 Laghi Gazzada,A,546,28,"19,50",92.0
+2,Moreno Maxmiliano,Goodbook Manerbio,P,525,27,"19,44",81.0
+3,Bassani Andrea,Carpe Diem Calolziocorte,A/C,522,28,"18,64",89.0
+4,Rondena Federico,USD Nervianese,P/G,476,26,"18,31",81.0
+5,Casati Simone,Nuova Pall. Olginate,G,465,28,"16,61",91.0
+6,Ballarate Matteo,Apl Lissone,G/A,435,27,"16,11",89.0
+7,Saccà Roberto,Opera Basket Club,G,430,27,"15,93",87.0
+8,De Piccoli Ezio,Robur BK Saronno,A,392,28,"14,00",74.0
+9,Riva Ivan,Nuova Pall. Olginate,A,390,25,"15,60",83.0
+10,Olivieri Simone,Gsd Corona Platina,C,383,28,"13,68",92.0
+11,Colombo Marco,ASD Milano Tre,A,382,26,"14,69",89.0
+12,Corno Alessandro,Robur BK Saronno,G/A,377,28,"13,46",92.0
+13,Cacciani Stefano,Apl Lissone,A/C,369,27,"13,67",84.0
+14,Gurioli Alessandro,Robur BK Saronno,A,367,25,"14,68",87.0
+15,Acquaviva Alessandro,Argomm Iseo,G/A,357,26,"13,73",92.0
+16,Lorenzetti Antonio,Argomm Iseo,A,356,28,"12,71",95.0
+17,Giocondo Giuseppe,ASD Milano Tre,G,355,27,"13,15",89.0
+18,Ndiaye Ababacar,Goodbook Manerbio,A,353,27,"13,07",90.0
+19,Clerici Matteo,Copert. Baj Arcisate,A/C,352,25,"14,08",92.0
+20,Corbetta Pierpaolo,Carpe Diem Calolziocorte,A/C,348,28,"12,43",84.0
+21,Fusella Pietro,Opera Basket Club,C,347,27,"12,85",89.0
+22,Baroni Mattia,Pall. Bernareggio,G/A,347,28,"12,39",87.0
+23,Furlanis Guglielmo,Pall. Bernareggio,P/G,341,27,"12,63",86.0
+24,Iacono Michael,ASD Milano Tre,P,340,26,"13,08",87.0
+25,Passerini Federico,BK 7 Laghi Gazzada,P/G,340,28,"12,14",93.0
+26,Savazzi Diego,Goodbook Manerbio,G,338,26,"13,00",76.0
+27,Prestini Gianluigi,Argomm Iseo,A/C,337,28,"12,04",89.0
+28,Bellotti Luca,Copert. Baj Arcisate,P,327,25,"13,08",93.0
+29,Cacciavillani Davide,Gsd Corona Platina,G/A,327,25,"13,08",90.0
+30,Delle Donne Andrea,Pall. Bernareggio,P/G/A,322,27,"11,93",89.0
+31,Bandera Gianluca,USD Nervianese,A,319,26,"12,27",89.0
+32,Molteni Mattia,Team ABC Cantu,P/G,315,27,"11,67",96.0
+33,Fumagalli Carlo,Sport. Boffalorese,G,313,24,"13,04",96.0
+34,Moraghi Alessandro,BK 7 Laghi Gazzada,C,312,28,"11,14",83.0
+35,Crescini Fiego,Argomm Iseo,G,309,27,"11,44",87.0
+36,Spertini Roberto,BK 7 Laghi Gazzada,G,306,27,"11,33",86.0
+37,Mascadri Stefano,Gsd Corona Platina,P/G,305,28,"10,89",93.0
+38,Anzivino Roberto,ASD Milano Tre,G/A,303,27,"11,22",84.0
+39,Zugno Ruben,Team ABC Cantu,P,299,21,"14,24",96.0
+40,Angiolini Alberto,Robur BK Saronno,P/G,297,28,"10,61",73.0
+41,Squarcina Niccolò,Apl Lissone,A,293,28,"10,46",83.0
+42,Marenzi Marco Paolo,Gsd Corona Platina,G/A,290,28,"10,36",91.0
+43,Fanchini Fabio,Copert. Baj Arcisate,P,281,25,"11,24",76.0
+44,Rossetti Paolo,Robur BK Saronno,C,265,27,"9,81",84.0
+45,Pecchia Andrea,Sport. Boffalorese,A,264,21,"12,57",97.0
+46,Zambelli Federico,Nuova Pall. Olginate,P,263,27,"9,74",90.0
+47,Spirolazzi Davide,Opera Basket Club,A,261,27,"9,67",92.0
+48,Speronello Davide,Goodbook Manerbio,G,254,25,"10,16",95.0
+49,Di Gianvittorio Simone,Opera Basket Club,G,254,25,"10,16",92.0
+50,Tandoi Niccolò,ASD Milano Tre,G,253,27,"9,37",93.0
+51,Siberna Giacomo,Team ABC Cantu,G/A,248,26,"9,54",96.0
+52,Paduano Simone,Carpe Diem Calolziocorte,P,246,25,"9,84",84.0
+53,Malagutti Leonardo,Gsd Corona Platina,P,245,27,"9,07",95.0
+54,Milan Fabrizio,Carpe Diem Calolziocorte,G,245,27,"9,07",87.0
+55,Marchetti Giovanni,Goodbook Manerbio,C,242,28,"8,64",74.0
+56,Rulli Gualtiero Mario,Copert. Baj Arcisate,G,241,27,"8,93",93.0
+57,Cesana Gabriele,Carpe Diem Calolziocorte,A,240,22,"10,91",86.0
+58,Saini Federico,Pall. Bernareggio,A/C,230,28,"8,21",92.0
+59,Casati Andrea,Nuova Pall. Olginate,G,227,28,"8,11",92.0
+60,Meroni Leo,Carpe Diem Calolziocorte,P/G,222,28,"7,93",89.0
+61,Vanzulli Vittorio,USD Nervianese,G,220,25,"8,80",89.0
+62,Scartezzini Francesco,Opera Basket Club,G,217,28,"7,75",92.0
+63,Hamadi Giosuè,Sport. Boffalorese,G,215,19,"11,32",96.0
+64,Danelutti Julian Enrico,Apl Lissone,A/C,213,28,"7,61",88.0
+65,Leva Matteo,Robur BK Saronno,G,208,28,"7,43",89.0
+66,Fontana Davide,Team ABC Cantu,G,206,24,"8,58",96.0
+67,Collini Riccardo,Apl Lissone,C,204,28,"7,29",90.0
+68,Lottici Matteo,Gsd Corona Platina,G/A,198,23,"8,61",91.0
+69,Villa Francesco,Sport. Boffalorese,P,196,24,"8,17",97.0
+70,Meroni Paolo,Apl Lissone,P,195,28,"6,96",90.0
+71,Zanini Lorenzo,Argomm Iseo,P,194,28,"6,93",90.0
+72,Fornara Federico,USD Nervianese,G,193,26,"7,42",97.0
+73,Formentini Filippo,Apl Lissone,G/A,193,28,"6,89",88.0
+74,Frontini Giovanni,USD Nervianese,G/A,186,21,"8,86",94.0
+75,Radovanovic Bojan,Pall. Bernareggio,C,184,27,"6,81",78.0
+76,Cappellari Andrea,Robur BK Saronno,A,184,27,"6,81",83.0
+77,Perego Andrea,Pall. Bernareggio,P,182,26,"7,00",89.0
+78,Fedrigo Giacomo,BK 7 Laghi Gazzada,A,181,28,"6,46",90.0
+79,Cappellari Alberto,Opera Basket Club,P/G,177,28,"6,32",88.0
+80,Carrara Giorgio,Gsd Corona Platina,A/C,176,25,"7,04",91.0
+81,Denti Paolo,Goodbook Manerbio,C,170,26,"6,54",79.0
+82,Tavola Diego,Nuova Pall. Olginate,G,170,27,"6,30",85.0
+83,Cesana Luca,Team ABC Cantu,G,164,16,"10,25",97.0
+84,Soresina Guido,ASD Milano Tre,C,164,28,"5,86",87.0
+85,Vercesi Davide,Sport. Boffalorese,A,161,22,"7,32",96.0
+86,Rossi Filippo,Sport. Boffalorese,,158,24,"6,58",
+87,Crippa Massimiliano,USD Nervianese,P/G,158,27,"5,85",88.0
+88,Coppi Carlo,Argomm Iseo,C,157,20,"7,85",81.0
+89,Bertoglio Nicola,BK 7 Laghi Gazzada,,155,19,"8,16",
+90,Nwohuocha Curtis,Team ABC Cantu,C,152,25,"6,08",97.0
+91,Zattra Davide,Copert. Baj Arcisate,C,147,26,"5,65",94.0
+92,Cancelli Matteo,Argomm Iseo,A/C,140,28,"5,00",92.0
+93,Mondello Jhon Carmelo,Copert. Baj Arcisate,A,135,19,"7,11",76.0
+94,Arduino Lorenzo,USD Nervianese,C,133,21,"6,33",94.0
+95,Leone Andrea,Argomm Iseo,G,129,18,"7,17",94.0
+96,Somaschini Elia,Copert. Baj Arcisate,G/A,127,22,"5,77",92.0
+97,Beretta Matteo,Nuova Pall. Olginate,C,121,25,"4,84",87.0
+98,Fioravanti Matteo,Team ABC Cantu,A/C,119,21,"5,67",97.0
+99,Brambilla Luca,Carpe Diem Calolziocorte,A,119,26,"4,58",96.0
+100,Daverio Nicolò,Opera Basket Club,A,118,27,"4,37",92.0
+101,Minoli Tommaso,Robur BK Saronno,P,112,27,"4,15",94.0
+102,Garofalo Lorenzo,Goodbook Manerbio,P,111,28,"3,96",90.0
+103,Colombo Andrea,Opera Basket Club,G,106,26,"4,08",95.0
+104,Biganzoli Daniele,BK 7 Laghi Gazzada,P/G,105,28,"3,75",71.0
+105,Pastori Manuel,Sport. Boffalorese,C,104,22,"4,73",96.0
+106,Iovene Dario,Copert. Baj Arcisate,P/G,101,16,"6,31",91.0
+107,Toso Francesco Amerigo,Sport. Boffalorese,,101,25,"4,04",
+108,Ukaegbu Chriss,Team ABC Cantu,A/C,99,18,"5,50",97.0
+109,Bubalo Bozidar,USD Nervianese,G,98,8,"12,25",93.0
+110,Toffali Davide,Sport. Boffalorese,,96,12,"8,00",
+111,Lanzani Tommaso,Nuova Pall. Olginate,P/G,96,28,"3,43",95.0
+112,Antonini Valerio,BK 7 Laghi Gazzada,A,95,13,"7,31",85.0
+113,Di Meco Manuel,Sport. Boffalorese,C,93,20,"4,65",97.0
+114,Freri Federico,Team ABC Cantu,C,93,22,"4,23",96.0
+115,Saresera Andrea,Argomm Iseo,P/G,93,28,"3,32",91.0
+116,Casati Luca,Nuova Pall. Olginate,A,91,26,"3,50",89.0
+117,Muraca Alessandro,Copert. Baj Arcisate,A/C,88,22,"4,00",93.0
+118,Mercante Stefano,Robur BK Saronno,P/G,80,23,"3,48",87.0
+119,Bolzonella Francesco,Copert. Baj Arcisate,G,77,26,"2,96",86.0
+120,Carrera Alessandro,Pall. Bernareggio,P/G,76,13,"5,85",87.0
+121,Moalli Nicolas,BK 7 Laghi Gazzada,P,73,27,"2,70",95.0
+122,Laudi Fabio,Copert. Baj Arcisate,A,72,19,"3,79",91.0
+123,Biganzoli Edoardo,Opera Basket Club,P,70,26,"2,69",95.0
+124,Bardotti Roberto,Pall. Bernareggio,P,68,26,"2,62",78.0
+125,Donadoni Alessio,Apl Lissone,P,67,23,"2,91",97.0
+126,Guerra Andrea,Team ABC Cantu,C,66,20,"3,30",97.0
+127,Colombo Stefano,Sport. Boffalorese,G,63,17,"3,71",97.0
+128,Giacchetta Loris,Carpe Diem Calolziocorte,C,58,12,"4,83",92.0
+129,Guadagnini Alessandro,Pall. Bernareggio,G,56,11,"5,09",93.0
+130,Odu Andre,USD Nervianese,C,56,21,"2,67",94.0
+131,Delmenico Giorgio,ASD Milano Tre,P,56,28,"2,00",94.0
+132,Baparapè Biram,Team ABC Cantu,G,55,20,"2,75",97.0
+133,Veronesi Giovanni,Argomm Iseo,G/A,53,22,"2,41",98.0
+134,Penci Federico,Nuova Pall. Olginate,A,51,28,"1,82",86.0
+135,Nava Francesco,Goodbook Manerbio,G/A,47,22,"2,14",93.0
+136,Viganò Umberto,Sport. Boffalorese,P/G,43,23,"1,87",97.0
+137,Cocchi Filippo,Gsd Corona Platina,A/C,42,25,"1,68",94.0
+138,Ruzzon Andrea,Apl Lissone,A/C,42,26,"1,62",94.0
+139,Floreano Daniele,Carpe Diem Calolziocorte,A,41,21,"1,95",89.0
+140,Bernardi Riccardo,Gsd Corona Platina,,36,9,"4,00",
+141,Carzaniga Matteo,Pall. Bernareggio,P,36,23,"1,57",97.0
+142,Piovani Matteo,Opera Basket Club,C,35,9,"3,89",89.0
+143,Bertona Matteo,USD Nervianese,,34,18,"1,89",
+144,Galletti Mattia,Team ABC Cantu,G,32,17,"1,88",96.0
+145,Rusconi Martino,Carpe Diem Calolziocorte,A,32,22,"1,45",95.0
+146,Motta Riccardo,Carpe Diem Calolziocorte,P,31,24,"1,29",93.0
+147,Testa Filippo,BK 7 Laghi Gazzada,,30,12,"2,50",
+148,Saloeta Loizate Ronaldo,Sport. Boffalorese,,26,11,"2,36",
+149,Picco Mattia,ASD Milano Tre,A/C,25,24,"1,04",83.0
+150,Verlato Federico,Nuova Pall. Olginate,G,25,24,"1,04",95.0
+151,Croci Andrea,USD Nervianese,P,22,13,"1,69",96.0
+152,Morgante Fabio,ASD Milano Tre,P,20,11,"1,82",87.0
+153,Bodini Riccardo,Goodbook Manerbio,G,20,21,"0,95",96.0
+154,Fontana Stefano,Goodbook Manerbio,A,19,21,"0,90",95.0
+155,Pizzarelli Emanuele,USD Nervianese,G,18,17,"1,06",96.0
+156,Basola Paolo,Goodbook Manerbio,P,18,20,"0,90",96.0
+157,Mori Atteo,ASD Milano Tre,C,16,8,"2,00",97.0
+158,Garavaglia Stefano,BK 7 Laghi Gazzada,P,16,12,"1,33",96.0
+159,Banchelli Carlo,Apl Lissone,,9,5,"1,80",
+160,Preli Giulio,Opera Basket Club,A,9,8,"1,13",95.0
+161,Gorla Jacopo,Robur BK Saronno,G,8,5,"1,60",96.0
+162,Grimoldi Alberto,Apl Lissone,,8,5,"1,60",
+163,Aceti Oscar,Team ABC Cantu,C,7,6,"1,17",97.0
+164,Montin Fabio,BK 7 Laghi Gazzada,A,7,9,"0,78",96.0
+165,Taglioretti Stefano,Robur BK Saronno,A,7,11,"0,64",94.0
+166,Passarella Matteo,Robur BK Saronno,G,6,1,"6,00",94.0
+167,Facchi Stefano,Argomm Iseo,C,6,9,"0,67",89.0
+168,Castelli Federico,Team ABC Cantu,G/A,6,12,"0,50",96.0
+169,Bristot Jacopo,ASD Milano Tre,G/A,6,15,"0,40",96.0
+170,Degiorgio Gabriele,ASD Milano Tre,A/C,6,15,"0,40",96.0
+171,Bigot Matteo,Gsd Corona Platina,G/A,5,13,"0,38",6.0
+172,Calò Ruben Elia,Sport. Boffalorese,,4,3,"1,33",
+173,Riva,Apl Lissone,,3,2,"1,50",
+174,Maiocchi Valerio,Team ABC Cantu,G/A,3,4,"0,75",96.0
+175,Valeri Alex,Copert. Baj Arcisate,A,3,11,"0,27",93.0
+176,Cavagnini Filippo,Gsd Corona Platina,G/A,3,12,"0,25",95.0
+177,Polyanskyy Anton,Sport. Boffalorese,,2,1,"2,00",
+178,Traore Mohamed,Pall. Bernareggio,A,2,2,"1,00",
+179,Abante Michael,ASD Milano Tre,P,2,3,"0,67",98.0
+180,Usberti Alessandro,Gsd Corona Platina,C,2,3,"0,67",96.0
+181,Martini Simone,USD Nervianese,,2,3,"0,67",
+182,Farella Mario,Goodbook Manerbio,A,2,3,"0,67",95.0
+183,Frigerio Tommaso,Opera Basket Club,A,1,5,"0,20",95.0
+184,Spinelli Pierre,Pall. Bernareggio,A,1,6,"0,17",
+185,Decidue Riccardo ,Apl Lissone,G/A,1,6,"0,17",98.0

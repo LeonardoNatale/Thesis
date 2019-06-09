@@ -1,0 +1,284 @@
+n°,Giocatore,Squadra,Ruolo,P.S.,P.G,Media,Anno
+1,Protti Stefano,Asa Cinisello,G,463,30,"15,43",87.0
+2,Avanzini Patrick,SGB Abbiategrasso,A,421,28,"15,04",96.0
+3,Ciccone Stefano,Osal Novate,A,385,28,"13,75",87.0
+4,Binaghi Mauro,ASD S.Giuseppe Arese,A,374,28,"13,36",74.0
+5,Chessa Alessandro,Cus Milano,G,365,28,"13,04",91.0
+6,Azjin Stefano,Gamma Segrate,G,365,29,"12,59",88.0
+7,Romanò Alessandro ,ASD Mojazza Milano,G,359,28,"12,82",88.0
+8,Galletta Giovanni ,Gamma Segrate,P,352,29,"12,14",94.0
+9,Benetollo Lorenzo,Cus Milano,A,351,27,"13,00",93.0
+10,Carnevale Gianluca ,Sanmaurense Pavia,G,351,27,"13,00",86.0
+11,Flego Alessandro,Asa Cinisello,C,330,29,"11,38",78.0
+12,Rolandi Carlo,SGB Abbiategrasso,C,330,30,"11,00",91.0
+13,Loggia Christian,Bocconi Sport Milano,C,323,27,"11,96",88.0
+14,Missaglia Carlo,Basket Pioltello,G,322,23,"14,00",83.0
+15,Anelli Nicolas,Pentagono Trezzano,C,322,28,"11,50",96.0
+16,Biase Andrea,Rondinella Sesto,A,310,27,"11,48",91.0
+17,De Pasquale Manuel,ASD Mojazza Milano,P,306,30,"10,20",89.0
+18,Caldera Tommaso ,Sanmaurense Pavia,G,301,28,"10,75",86.0
+19,Fant Simone,SGB Abbiategrasso,P,296,27,"10,96",95.0
+20,Morandi Paolo,Basket Melzo,A,292,22,"13,27",76.0
+21,Arrigo Antonio,Pentagono Trezzano,A,290,27,"10,74",97.0
+22,Galli Riccardo,Rondinella Sesto,A/C,290,28,"10,36",93.0
+23,Motta Emanuele,Basket Melzo,A,288,25,"11,52",81.0
+24,Kisonga Joao,Bionics Buccinasco,C,284,26,"10,92",84.0
+25,Werlich Alessandro,SGB Abbiategrasso,G,281,28,"10,04",95.0
+26,Pedrazzini Andrea,Bionics Buccinasco,A,280,27,"10,37",91.0
+27,Lazzaroni Stefano,ASD S.Giuseppe Arese,P,278,28,"9,93",91.0
+28,Frigerio Luca,Gamma Segrate,G,277,29,"9,55",83.0
+29,Pradella Fabio,Argentia Gorgonzola,G/A,276,26,"10,62",94.0
+30,Bellotti Giorgio,ASD Mojazza Milano,C,273,28,"9,75",90.0
+31,Verkys Mindaugas,ASD Mojazza Milano,A/C,262,24,"10,92",87.0
+32,Magnani Matteo,Argentia Gorgonzola,P,258,28,"9,21",94.0
+33,Cafarra Stefano,Cornaredo Basket,A,254,17,"14,94",95.0
+34,Tardini Marco,Cus Milano,A/C,254,29,"8,76",92.0
+35,Belotti Mauro,Asa Cinisello,P,249,30,"8,30",88.0
+36,Scarabelli Gabriele,Basket Pioltello,G,247,26,"9,50",82.0
+37,Wazzan Alessandro,Pentagono Trezzano,P/G,244,28,"8,71",96.0
+38,Brambillasca Pietro,Argentia Gorgonzola,A/C,240,27,"8,89",90.0
+39,Buga Andrea,Asa Cinisello,P/G,236,30,"7,87",84.0
+40,Soncini Luca,Bocconi Sport Milano,A,235,27,"8,70",87.0
+41,Locatelli Giuseppe,Sanmaurense Pavia,C,231,27,"8,56",94.0
+42,Bona Angelo,Bocconi Sport Milano,P/G,227,26,"8,73",86.0
+43,Bienati Tommaso,Rondinella Sesto,P/G,226,27,"8,37",92.0
+44,Calvi Giacomo,Sanmaurense Pavia,G,225,27,"8,33",85.0
+45,Landini Andrea,Sanmaurense Pavia,G,225,29,"7,76",85.0
+46,Nembri Andrea,Basket Melzo,A,224,19,"11,79",83.0
+47,Chiari Francesco,Basket Pioltello,A/C,224,25,"8,96",88.0
+48,Manghisi Francesco ,Rondinella Sesto,G,224,28,"8,00",92.0
+49,Bosio Massimiliano,Bocconi Sport Milano,,223,19,"11,74",89.0
+50,Figini Andrea,Osal Novate,G,222,24,"9,25",94.0
+51,Prataviera Lorenzo,Bionics Buccinasco,P,219,15,"14,60",91.0
+52,Marchetti Matteo ,Basket Melzo,G,219,28,"7,82",85.0
+53,Vocino Riccardo,Rondinella Sesto,P/G,217,29,"7,48",91.0
+54,Villa Niccolò,Osal Novate,G,214,27,"7,93",94.0
+55,Gariboldi Stefano ,Rondinella Sesto,A,213,30,"7,10",91.0
+56,Marzoli Alessandro,Bocconi Sport Milano,G,206,20,"10,30",83.0
+57,Basani Marco,Cornaredo Basket,G,206,27,"7,63",92.0
+58,Travaglini Mario,Gamma Segrate,G,201,25,"8,04",86.0
+59,Marangoni Gabriele,Cornaredo Basket,G,201,29,"6,93",96.0
+60,Romanoni Andrea,Bionics Buccinasco,G,200,27,"7,41",88.0
+61,Serbandini Davide,Bionics Buccinasco,P,199,25,"7,96",89.0
+62,Legramanti Claudio,Basket Pioltello,G,198,24,"8,25",82.0
+63,Casciano Federico,Bionics Buccinasco,A,198,25,"7,92",91.0
+64,Scaravaggi Antonio,Basket Pioltello,A,196,22,"8,91",88.0
+65,Guerra Ermanno,Gamma Segrate,C,196,29,"6,76",84.0
+66,Gheller Simone,ASD S.Giuseppe Arese,G/A,189,25,"7,56",86.0
+67,Sala Stefano,Osal Novate,A,187,22,"8,50",97.0
+68,Bergamo Guido,Cornaredo Basket,A,187,23,"8,13",86.0
+69,Redon Massimiliano,ASD S.Giuseppe Arese,A/C,186,19,"9,79",91.0
+70,Alberton Andrea,Basket Melzo,G,186,21,"8,86",81.0
+71,Pigliafreddo Dario,Cornaredo Basket,C,186,29,"6,41",88.0
+72,Bossi Luca,SGB Abbiategrasso,P,184,24,"7,67",96.0
+73,Chioda Luca,Gamma Segrate,G,183,20,"9,15",82.0
+74,Raspanti Luca,Argentia Gorgonzola,P,183,28,"6,54",91.0
+75,Ferretti Alete,SGB Abbiategrasso,A,181,22,"8,23",95.0
+76,Agostinello Stefano,Asa Cinisello,P,178,30,"5,93",91.0
+77,De Pascale Matteo,Cus Milano,G,175,24,"7,29",93.0
+78,Rota Matteo,Asa Cinisello,A,173,26,"6,65",89.0
+79,Pivi Andrea,SGB Abbiategrasso,A,169,28,"6,04",94.0
+80,Colombo Tommaso,Cornaredo Basket,A,166,29,"5,72",93.0
+81,Di Benedetto Simone ,Gamma Segrate,G,162,28,"5,79",95.0
+82,Maggi Giovanni,ASD Mojazza Milano,A,160,23,"6,96",88.0
+83,Chenet Marco,Cus Milano,G,159,27,"5,89",93.0
+84,Gagliardi Mauro,Osal Novate,G,157,27,"5,81",80.0
+85,Castiglioni Andrea,Cus Milano,,156,14,"11,14",89.0
+86,Raffaele Stefano ,ASD Mojazza Milano,A,156,28,"5,57",92.0
+87,Merlo Simone,Rondinella Sesto,P/G,156,29,"5,38",94.0
+88,Cirillo Luigi,Argentia Gorgonzola,P/G,154,23,"6,70",86.0
+89,Bellogi Francesco ,Bocconi Sport Milano,A,152,25,"6,08",94.0
+90,Minoggio Matteo ,ASD Mojazza Milano,P,152,30,"5,07",94.0
+91,Rota Massimiliano,Bionics Buccinasco,A,150,22,"6,82",86.0
+92,Melzi Giordano,Rondinella Sesto,P/G,147,18,"8,17",84.0
+93,Dedè Matteo Andrea,Basket Melzo,G/A,146,13,"11,23",96.0
+94,Valentini Matteo,Pentagono Trezzano,G/A,146,28,"5,21",92.0
+95,Beretta Andrea,Basket Melzo,P,145,16,"9,06",92.0
+96,Marcotti Luca,Basket Melzo,G,144,27,"5,33",92.0
+97,Luciano Roberto,Pentagono Trezzano,A,141,15,"9,40",85.0
+98,Passerini Marco Elia,Basket Melzo,G,139,26,"5,35",94.0
+99,Riva Paolo,Sanmaurense Pavia,G,138,26,"5,31",92.0
+100,Pasetti Stefano,Asa Cinisello,A,135,27,"5,00",85.0
+101,Larosa Michael,Osal Novate,C,134,18,"7,44",83.0
+102,Curcio Federico ,Basket Pioltello,P,134,26,"5,15",87.0
+103,Puato Riccardo,Cornaredo Basket,P,131,23,"5,70",96.0
+104,Zulueta Delgado Yosvany,Bionics Buccinasco,C,130,25,"5,20",75.0
+105,Colombo Davide,ASD Mojazza Milano,A,128,23,"5,57",94.0
+106,Antonini Matteo,Cornaredo Basket,C,125,27,"4,63",93.0
+107,Pozzi Umberto,Osal Novate,A,124,24,"5,17",88.0
+108,Cimini Alessio,Bionics Buccinasco,G,123,14,"8,79",87.0
+109,Villa Emanuele,Argentia Gorgonzola,G,121,21,"5,76",97.0
+110,Venier Stefano,Pentagono Trezzano,A,121,27,"4,48",94.0
+111,Gissi Luca,ASD S.Giuseppe Arese,A,120,29,"4,14",94.0
+112,Brambilla Corrado ,Rondinella Sesto,A,119,30,"3,97",94.0
+113,Petrucci Stefano,Cus Milano,A,115,17,"6,76",88.0
+114,Schmdt,Bocconi Sport Milano,,113,10,"11,30",
+115,Geroli Luca,Gamma Segrate,A,113,24,"4,71",84.0
+116,Benzoni Riccardo,ASD S.Giuseppe Arese,A,112,22,"5,09",79.0
+117,Torri Gianmatteo,Cus Milano,P,112,24,"4,67",90.0
+118,Nervegna Mark,Bocconi Sport Milano,G,109,16,"6,81",92.0
+119,Emiliani Tommaso i,Bionics Buccinasco,A,109,21,"5,19",95.0
+120,Torriani Luca,Osal Novate,A,109,23,"4,74",97.0
+121,Maniero Marco,Rondinella Sesto,P,109,23,"4,74",94.0
+122,Pauciulo Pierluigi ,Bocconi Sport Milano,P,107,27,"3,96",95.0
+123,Maraldi Lorenzo ,Osal Novate,A,107,27,"3,96",94.0
+124,Bischetti,Argentia Gorgonzola,,106,14,"7,57",
+125,Rovelli Luca Gabriele ,Basket Melzo,A,106,30,"3,53",85.0
+126,Reali Alessandro,SGB Abbiategrasso,P,102,23,"4,43",98.0
+127,Gadia Domenico,ASD S.Giuseppe Arese,C,102,25,"4,08",72.0
+128,Bartolucci Filippo,Bocconi Sport Milano,A,100,15,"6,67",91.0
+129,Zocchi Michele,SGB Abbiategrasso,G,99,24,"4,13",96.0
+130,Savini Alberto,Sanmaurense Pavia,A,99,27,"3,67",88.0
+131,Scirea Simone,Basket Pioltello,,96,28,"3,43",96.0
+132,Abate Kevin,Argentia Gorgonzola,A,94,29,"3,24",92.0
+133,Ferrarini Stefano ,Sanmaurense Pavia,G,93,12,"7,75",94.0
+134,Bazzo Federico,Argentia Gorgonzola,A/C,93,19,"4,89",97.0
+135,Ravanini Alessandro ,Gamma Segrate,P,93,28,"3,32",96.0
+136,Gorla Riccardo,ASD S.Giuseppe Arese,A/C,92,26,"3,54",93.0
+137,Muratore Simone,Pentagono Trezzano,A,89,20,"4,45",91.0
+138,Zani Alessandro,Osal Novate,C,87,27,"3,22",94.0
+139,Gazzoni Gianluca,Asa Cinisello,A/C,83,25,"3,32",80.0
+140,Anolli Giovanni,Bocconi Sport Milano,A,81,11,"7,36",95.0
+141,Cigada Matteo,Osal Novate,P,81,20,"4,05",96.0
+142,Strobino Luca,SGB Abbiategrasso,A/C,80,23,"3,48",93.0
+143,Marelli Federico,ASD S.Giuseppe Arese,P,79,19,"4,16",78.0
+144,Gramola Carlo,Bocconi Sport Milano,A,78,24,"3,25",94.0
+145,Petitti Lorenzo ,Osal Novate,P,74,17,"4,35",94.0
+146,Zenatti Paolo,Cus Milano,,73,14,"5,21",95.0
+147,Benfenati Giorgio,Cornaredo Basket,G,72,28,"2,57",94.0
+148,Danesi Francesco,Pentagono Trezzano,P,71,26,"2,73",96.0
+149,Tavassi Federico,Pentagono Trezzano,G,71,26,"2,73",87.0
+150,Reda Massimiliano,Bionics Buccinasco,A/C,70,9,"7,78",72.0
+151,Bottan Roberto,Gamma Segrate,A,70,27,"2,59",93.0
+152,Vacca Andrea,Bocconi Sport Milano,C,67,21,"3,19",94.0
+153,Giosuè Edoardo,Cus Milano,P,65,16,"4,06",94.0
+154,Cicala Francesco,Argentia Gorgonzola,A/C,65,24,"2,71",95.0
+155,Frigerio Mattia,Basket Pioltello,,63,28,"2,25",96.0
+156,Proserpio Fabio,Cornaredo Basket,A,62,14,"4,43",97.0
+157,Casati Giacomo,Rondinella Sesto,A,62,20,"3,10",94.0
+158,Prati Marco,ASD S.Giuseppe Arese,P/G,62,21,"2,95",91.0
+159,Sassi Alessandro,Cus Milano,C,61,25,"2,44",85.0
+160,Anolli Lorenzo,Bocconi Sport Milano,C,60,19,"3,16",91.0
+161,Lombardi Luca,ASD S.Giuseppe Arese,P,59,23,"2,57",94.0
+162,Pirrotta Riccardo,Basket Melzo,G,59,23,"2,57",95.0
+163,Pasqualin Andrea,Pentagono Trezzano,G,57,18,"3,17",90.0
+164,Cestari Matteo,Bocconi Sport Milano,A,56,25,"2,24",95.0
+165,Ciccione Stefano,Sanmaurense Pavia,C,50,16,"3,13",94.0
+166,Magoga Mauro,Argentia Gorgonzola,,49,12,"4,08",97.0
+167,Malgrati Davide,Osal Novate,A,48,7,"6,86",97.0
+168,Scaltrito Andrea,Argentia Gorgonzola,P,48,27,"1,78",88.0
+169,Paccagnella Riccardo,Cus Milano,A,46,23,"2,00",94.0
+170,Di Rocchi,Basket Pioltello,,45,9,"5,00",
+171,Fortunati Riccardo,Pentagono Trezzano,A,44,13,"3,38",98.0
+172,Lecce Lorenzo,ASD S.Giuseppe Arese,G,43,9,"4,78",91.0
+173,Paolucci Andrea ,Osal Novate,P,42,12,"3,50",97.0
+174,Brambilla Alberto,Asa Cinisello,A,42,25,"1,68",96.0
+175,Lo Brutto Federico,ASD Mojazza Milano,P/G,40,19,"2,11",91.0
+176,Natola Jacopo,Sanmaurense Pavia,P/G,40,20,"2,00",92.0
+177,Sagresti,Sanmaurense Pavia,,40,21,"1,90",
+178,Islas Omar,Pentagono Trezzano,A,40,24,"1,67",83.0
+179,Gatta Matteo,Cornaredo Basket,P,39,18,"2,17",95.0
+180,Bellotti Marco,ASD Mojazza Milano,A/C,39,19,"2,05",97.0
+181,Basile Mattia,Rondinella Sesto,C,39,20,"1,95",87.0
+182,Picarelli Francesco,Cornaredo Basket,P,38,24,"1,58",85.0
+183,Marangelo Roberto,Pentagono Trezzano,G,37,6,"6,17",82.0
+184,Forlani Paolo,Cornaredo Basket,A,37,7,"5,29",95.0
+185,Fornari Matteo,Bionics Buccinasco,G,36,23,"1,57",95.0
+186,Forni Simone,ASD S.Giuseppe Arese,P/G,35,8,"4,38",93.0
+187,Ghezzi Marco,Argentia Gorgonzola,A,34,13,"2,62",82.0
+188,Pistis Andrea,Basket Pioltello,A,33,17,"1,94",83.0
+189,Germani Alessio,ASD Mojazza Milano,G,32,10,"3,20",70.0
+190,Ghinassi Dario,Basket Melzo,P,32,21,"1,52",81.0
+191,Pozzi,ASD Mojazza Milano,,31,8,"3,88",
+192,Brivio Carlo,Basket Melzo,A,31,11,"2,82",83.0
+193,Ciolina Giorgio,Pentagono Trezzano,A,30,7,"4,29",86.0
+194,Minervino Matteo,Argentia Gorgonzola,A,30,10,"3,00",80.0
+195,Pinelli Filippo ,Sanmaurense Pavia,A,30,24,"1,25",95.0
+196,Calloni Alessio,Basket Pioltello,A/C,28,8,"3,50",77.0
+197,Miotto,Bionics Buccinasco,,28,10,"2,80",
+198,De La   Rosa Kendall,Pentagono Trezzano,C,28,11,"2,55",85.0
+199,Castellan Andrea,Bocconi Sport Milano,G,27,6,"4,50",94.0
+200,Meleri,Argentia Gorgonzola,,26,11,"2,36",
+201,Pistillo Marcello,Asa Cinisello,A,25,23,"1,09",95.0
+202,Pagetti Federico ,Sanmaurense Pavia,G,24,5,"4,80",86.0
+203,Monti Alessandro,ASD S.Giuseppe Arese,G,24,7,"3,43",91.0
+204,Polo Livio,Basket Pioltello,G,23,5,"4,60",83.0
+205,Giacomella,Basket Pioltello,,23,8,"2,88",
+206,Cavagnoli Paolo,Basket Pioltello,A,23,15,"1,53",78.0
+207,Marinelli Francesco,Pentagono Trezzano,G,21,5,"4,20",91.0
+208,Parmeggiani Riccardo,Pentagono Trezzano,G/A,20,9,"2,22",96.0
+209,Ricchetti Luca,Cus Milano,A,20,12,"1,67",95.0
+210,Dickmann Jacopo,Osal Novate,P,19,10,"1,90",87.0
+211,Ferri Massimiliano ,Basket Melzo,C,19,12,"1,58",75.0
+212,Boriotti Andrea ,Basket Pioltello,A/C,18,3,"6,00",88.0
+213,Baroni Riccardo ,Basket Pioltello,G,18,8,"2,25",93.0
+214,Becchi Davide,Asa Cinisello,C,17,6,"2,83",90.0
+215,Platini,ASD Mojazza Milano,,16,5,"3,20",
+216,Dario Alessandro ,Basket Melzo,P,16,7,"2,29",96.0
+217,Mazzocchi Fabrizio,Argentia Gorgonzola,A,16,11,"1,45",
+218,Zaccarini Luca,ASD Mojazza Milano,A,16,17,"0,94",94.0
+219,Finazzer Francesco,Bocconi Sport Milano,P,16,17,"0,94",95.0
+220,Capra Lorenzo,Asa Cinisello,G,16,22,"0,73",95.0
+221,Ciavarella Loris,ASD S.Giuseppe Arese,P/G,15,10,"1,50",95.0
+222,Pozzato Gabriele,Bionics Buccinasco,G,13,8,"1,63",88.0
+223,Barattieri P.,Cornaredo Basket,,13,13,"1,00",
+224,Garè,Sanmaurense Pavia,,12,1,"12,00",
+225,Galimberti,Bionics Buccinasco,,12,4,"3,00",
+226,Magenga Paolo,Gamma Segrate,P,12,10,"1,20",93.0
+227,Bozzetti Lorenzo,Bocconi Sport Milano,G,12,12,"1,00",93.0
+228,Sasso Paolo,ASD Mojazza Milano,P,12,17,"0,71",96.0
+229,Stefanucci Michele,ASD Mojazza Milano,A,11,2,"5,50",89.0
+230,Ghezzi Luca,Argentia Gorgonzola,G,11,7,"1,57",87.0
+231,Magnaghi,Gamma Segrate,,11,14,"0,79",98.0
+232,Arisi,Bionics Buccinasco,G,10,1,"10,00",
+233,Sillari Gabriele (95),Bionics Buccinasco,,10,4,"2,50",95.0
+234,Boniolo Fabio,Cus Milano,P,10,5,"2,00",94.0
+235,Rusconi Davide,Basket Melzo,C,9,2,"4,50",82.0
+236,Scaparrotti Alessio ,Basket Pioltello,,9,11,"0,82",98.0
+237,Ratti Ariele,SGB Abbiategrasso,G,8,3,"2,67",95.0
+238,Bertani,Bionics Buccinasco,,8,3,"2,67",
+239,Criserà Alessandro,Basket Melzo,G,8,4,"2,00",96.0
+240,Bonanomi Andrea ,Gamma Segrate,G,8,5,"1,60",78.0
+241,Tavazzi Pietro,Basket Melzo,A,8,8,"1,00",93.0
+242,Mantovani Andrea,Cornaredo Basket,G,7,2,"3,50",94.0
+243,Gatti Comini Riccardo,Sanmaurense Pavia,A/C,7,4,"1,75",84.0
+244,Romano Simone,Rondinella Sesto,A,7,5,"1,40",85.0
+245,Castiglioni,Osal Novate,,7,6,"1,17",
+246,Dossi Mattia,Argentia Gorgonzola,C,7,9,"0,78",92.0
+247,Chianese Jacopo,Bionics Buccinasco,A,6,4,"1,50",87.0
+249,Salandini,Gamma Segrate,,6,6,"1,00",
+250,Cucchi Cristian,SGB Abbiategrasso,C,6,8,"0,75",97.0
+251,Molisani Davide 81),Gamma Segrate,P,5,3,"1,67",
+252,Invernizzi Giovanni,SGB Abbiategrasso,C,5,6,"0,83",97.0
+253,Brioschi,Asa Cinisello,,4,3,"1,33",
+254,Genito Alessandro,Cus Milano,G,4,3,"1,33",89.0
+255,Darwish K.,Basket Pioltello,,4,4,"1,00",
+256,Togni,Pentagono Trezzano,,4,8,"0,50",
+257,Santi Matteo,Cus Milano,A,4,12,"0,33",92.0
+258,Benassai,Osal Novate,,3,1,"3,00",
+259,Longoni,Argentia Gorgonzola,A,3,1,"3,00",
+260,Pirola,ASD Mojazza Milano,,3,2,"1,50",
+261,Toffetti F.,Basket Melzo,,3,2,"1,50",
+262,Viganò,ASD Mojazza Milano,,3,3,"1,00",
+263,Cannizzaro Simone,ASD S.Giuseppe Arese,A,3,5,"0,60",95.0
+264,Consonni Matteo,ASD S.Giuseppe Arese,P/G,3,6,"0,50",96.0
+265,Trombetta Giacomo,Rondinella Sesto,P,3,6,"0,50",95.0
+266,Aziz Kevin,Cornaredo Basket,A/C,2,1,"2,00",95.0
+267,Costa Simone,Osal Novate,,2,1,"2,00",
+268,Bocci,Rondinella Sesto,G,2,1,"2,00",
+269,Teri Lorenzo,Basket Melzo,C,2,2,"1,00",93.0
+270,Margutti Stefano,ASD Mojazza Milano,A,2,2,"1,00",83.0
+271,Gigliati,Bionics Buccinasco,,2,2,"1,00",
+272,Violino,ASD S.Giuseppe Arese,,2,2,"1,00",
+273,Bocci,Bionics Buccinasco,,2,2,"1,00",
+274,Santarelli,Rondinella Sesto,,2,3,"0,67",
+275,Garambelli,ASD S.Giuseppe Arese,,2,3,"0,67",
+276,Acerni Valentino,Cornaredo Basket,,2,3,"0,67",97.0
+277,Negri Giovanni,ASD Mojazza Milano,G,2,3,"0,67",96.0
+278,Invernizzi Bruno,SGB Abbiategrasso,,2,3,"0,67",99.0
+279,Cristofori Andrea,Gamma Segrate,G,2,4,"0,50",98.0
+280,Chirico,ASD Mojazza Milano,,2,5,"0,40",
+281,Cavò Stefano,Pentagono Trezzano,,2,5,"0,40",98.0
+282,Pozzi Marco,Argentia Gorgonzola,C,1,1,"1,00",80.0
+283,Rossato,ASD S.Giuseppe Arese,,1,1,"1,00",
+20,Morandi Paolo,Basket Melzo,A,292,22,"13,27",76.0

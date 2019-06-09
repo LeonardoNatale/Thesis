@@ -1,0 +1,270 @@
+n°,Giocatore,Squadra,Ruolo,P.S.,P.G,Media,Anno
+1,Meneghel Fabrizio,Rhinos Robbiate,P/G,438,24,"18,25",89.0
+2,Triulzi Federico ,Sportiva Sondrio,P/G,435,28,"15,54",86.0
+3,Favero Pieralessandro ,AS Dil. Morbegno,A,428,27,"15,85",82.0
+4,Rusconi Nicola,Centro BK Pescate,A/C,405,25,"16,20",79.0
+5,Mazzieri Andrea,Pol. Ars Rovagnate,,401,25,"16,04",
+6,Feloj Stefano,AS Dil. Morbegno,A,397,30,"13,23",92.0
+7,Pellizzoni Riccardo,Virtus Meda,G,382,28,"13,64",96.0
+8,Felizietti Matteo,ABC Pall. Lomazzo,A,341,25,"13,64",87.0
+9,Marchesi Daniele,Basket Club Tirano,A,337,25,"13,48",92.0
+10,Pentchev Bogdan ,Sportiva Sondrio,C,331,28,"11,82",86.0
+11,Ronconi Alessandro,AS Dil. Morbegno,G,319,28,"11,39",93.0
+12,Valeriano Jacopo,Pol. Ars Rovagnate,,312,27,"11,56",
+13,Gianola Stefano ,Sportiva Sondrio,G,306,20,"15,30",86.0
+14,Natta Domenico,Basket Club Tirano,G,306,24,"12,75",96.0
+15,Ceppi Stefano,Casa Gioventù Erba,,297,29,"10,24",96.0
+16,Livio Alberto,ABC Pall. Lomazzo,G,290,29,"10,00",94.0
+17,Lorenzon Luca,Centro BK Pescate,,285,28,"10,18",
+18,Pancino Riccardo ,Casa Gioventù Erba,C,283,28,"10,11",87.0
+19,Fagetti Luca,Pol. Mandello Lario,G,279,24,"11,63",81.0
+20,Credaro Giampiero ,Sportiva Sondrio,G,268,28,"9,57",80.0
+21,Spreafico Luca,Centro BK Pescate,,262,26,"10,08",
+22,Mazzieri Alessandro,Pol. Ars Rovagnate,,260,27,"9,63",
+23,Bonaiti Fabio,Centro BK Pescate,G,259,26,"9,96",92.0
+24,Comerio Fabrizio,ABC Pall. Lomazzo,P,258,28,"9,21",85.0
+25,Spreafico Marco ,Casa Gioventù Erba,A,258,28,"9,21",89.0
+26,Orsi Luca,Sportiva Sondrio,C,252,27,"9,33",94.0
+27,Mauri Agostino,Casa Gioventù Erba,C,248,30,"8,27",87.0
+28,Panzeri Fabio,Pol. Mandello Lario,G,244,21,"11,62",84.0
+29,Porcello Cristian ,Rhinos Robbiate,G,241,23,"10,48",91.0
+30,Fuscio Davide,ABC Pall. Lomazzo,A,241,24,"10,04",91.0
+31,Brusamento Michele,Giardino LVS Basket Orsenigo,C,241,27,"8,93",91.0
+32,Scoccaro Riccardo,Virtus Meda,G,240,26,"9,23",97.0
+33,Riva Patrizio,Pall. Figino,,239,22,"10,86",
+34,Todeschini Nicolò,Pall. Figino,A,235,21,"11,19",93.0
+35,Cancian Davide,Pall. Figino,A/C,233,23,"10,13",85.0
+36,Rocca Edoardo,Pol. Ars Rovagnate,,233,27,"8,63",
+37,Cipolla Stefano ,S.Ambrogio Mariano,G,228,25,"9,12",93.0
+38,Bianchini Emanuele ,Rhinos Robbiate,G,225,25,"9,00",90.0
+39,Albique Luca,Virtus Meda,A,225,28,"8,04",97.0
+40,Romano Marco,Giardino LVS Basket Orsenigo,G,223,22,"10,14",83.0
+41,Tengattini Emanuele,Rhinos Robbiate,A,220,24,"9,17",81.0
+42,De Buglio Francesco,Basket Club Tirano,C,220,24,"9,17",91.0
+43,Spini Michele,AS Dil. Morbegno,P,219,29,"7,55",83.0
+44,Arena marco,S.Ambrogio Mariano,C,210,23,"9,13",87.0
+45,Minotti Alessandro,Giardino LVS Basket Orsenigo,A,201,25,"8,04",93.0
+46,Angelici Michele,Rhinos Robbiate,A/C,199,25,"7,96",88.0
+47,Zisa William,Giardino LVS Basket Orsenigo,G,192,20,"9,60",91.0
+48,Parma Francesco,Virtus Meda,G,188,23,"8,17",97.0
+49,Longatti Pietro,Pall. Como,G/A,186,21,"8,86",95.0
+50,Gatti Marco,ABC Pall. Lomazzo,P/G,185,24,"7,71",85.0
+51,Panizza Simone,Basket Club Tirano,C,182,23,"7,91",94.0
+52,Marrazzo Giacomo,Pol. Mandello Lario,G,179,22,"8,14",97.0
+53,Sivieri Luca,Virtus Meda,A,179,25,"7,16",97.0
+54,Cazzaniga Emanuele,Pol. Ars Rovagnate,,174,26,"6,69",
+55,Kovacic Davorin ,Basket Tavernerio,C,170,16,"10,63",90.0
+56,Gennaro Mattia,Pol. Mandello Lario,G/A,170,21,"8,10",86.0
+57,Gorni Cristtian,ABC Pall. Lomazzo,G,166,25,"6,64",92.0
+58,Mauri Simone,S.Ambrogio Mariano,G,164,21,"7,81",88.0
+59,Sannino Riccardo,S.Ambrogio Mariano,A,162,18,"9,00",89.0
+60,Mencarelli Lorenzo,Centro BK Pescate,,162,24,"6,75",
+61,Aromando Simone,Virtus Meda,G,160,25,"6,40",97.0
+62,Paieri Andrea,Pall. Figino,,157,21,"7,48",
+63,Livio Mauro,Casa Gioventù Erba,G/A,156,18,"8,67",79.0
+64,Cappelletti Simone ,Giardino LVS Basket Orsenigo,C,156,26,"6,00",93.0
+65,Rigamonti Elia,Casa Gioventù Erba,,152,21,"7,24",96.0
+66,Chittaro Marco,Pall. Figino,A,151,23,"6,57",94.0
+67,Casciano Alessandro,Virtus Meda,P,150,26,"5,77",96.0
+68,Galli Stefano,ABC Pall. Lomazzo,G,148,24,"6,17",83.0
+69,Giorgetti Marco ,Basket Tavernerio,G,147,15,"9,80",81.0
+70,Bragotto Matteo,Pall. Figino,,146,17,"8,59",
+71,Taormina Alessandro ,Basket Tavernerio,P,146,17,"8,59",90.0
+72,Zacchello Gabriele,Pall. Como,A,144,19,"7,58",84.0
+73,Panzeri Simone,Pol. Mandello Lario,A/C,144,20,"7,20",80.0
+74,Gabba A.,Pall. Como,,142,11,"12,91",
+75,Casadio Filippo,Virtus Meda,G,141,24,"5,88",97.0
+76,Tagliabue Luca,Basket Tavernerio,,140,17,"8,24",
+77,Lucchina Alfredo ,AS Dil. Morbegno,P,140,26,"5,38",82.0
+78,Castiglioni Julian,Virtus Meda,P,136,29,"4,69",97.0
+79,Ghislanzoni Matteo ,Centro BK Pescate,A,131,22,"5,95",91.0
+80,Manni Emanuele,AS Dil. Morbegno,G,131,28,"4,68",95.0
+81,Beretta Lorenzo,Pall. Como,G,130,14,"9,29",96.0
+82,Spazzini Mattia ,Polisportiva Senna,G,126,14,"9,00",93.0
+83,Cattaneo Nicolò,Giardino LVS Basket Orsenigo,P,125,20,"6,25",88.0
+84,Gazzola Alessandro,Giardino LVS Basket Orsenigo,A,123,27,"4,56",95.0
+85,Pozzi Alberto,S.Ambrogio Mariano,A,120,20,"6,00",90.0
+86,Bongini Andrea,Basket Club Tirano,G,120,24,"5,00",87.0
+87,Ravasi Marco,Rhinos Robbiate,,119,17,"7,00",
+88,Corti Gianluca,Casa Gioventù Erba,A/C,119,22,"5,41",95.0
+89,Trebbi Alberto,Polisportiva Senna,G/A,118,14,"8,43",85.0
+90,Negri Matteo,Basket Club Tirano,P,117,21,"5,57",92.0
+91,Corti Stefano,Pall. Como,A,115,19,"6,05",97.0
+92,Costacurta Mattia ,Polisportiva Senna,P/G,114,10,"11,40",91.0
+93,Albonico T.,Pall. Como,,113,19,"5,95",
+94,Broggi Matteo,Giardino LVS Basket Orsenigo,G,110,26,"4,23",94.0
+95,Bongio Paolo,AS Dil. Morbegno,G,110,27,"4,07",86.0
+96,Caglio Andrea,Virtus Meda,G,109,28,"3,89",97.0
+97,Corti Alessandro ,Casa Gioventù Erba,A,107,19,"5,63",90.0
+98,Castelli Carlo,S.Ambrogio Mariano,A,107,20,"5,35",87.0
+99,Clerici Mattia,ABC Pall. Lomazzo,A,107,29,"3,69",89.0
+100,Spiga Andrea,Basket Tavernerio,G,106,9,"11,78",90.0
+101,Tabacco Mattia,Pall. Figino,,105,13,"8,08",
+102,Alessio Alfio,Pol. Ars Rovagnate,,104,16,"6,50",
+103,Pogliaghi Edoardo ,Pol. Mandello Lario,G,102,18,"5,67",94.0
+104,Aiani Francesco ,Basket Tavernerio,P,99,16,"6,19",87.0
+105,Fontana C.,Centro BK Pescate,,99,23,"4,30",
+106,Nova Sergio,Pol. Ars Rovagnate,,99,27,"3,67",
+107,Bianchi Francesco ,S.Ambrogio Mariano,G,95,18,"5,28",87.0
+108,Bertolini Paolo,Giardino LVS Basket Orsenigo,P,95,23,"4,13",93.0
+109,Baggi Matteo,Basket Club Tirano,G,94,9,"10,44",94.0
+110,Trebbi Carlo,Polisportiva Senna,,94,14,"6,71",
+111,Pontiggia,AS Dil. Morbegno,,94,22,"4,27",
+112,Zonta Alessandro ,Polisportiva Senna,G,93,8,"11,63",89.0
+113,Giussani Riccardo ,Casa Gioventù Erba,A,93,25,"3,72",92.0
+114,Croci Andrea,S.Ambrogio Mariano,A,90,18,"5,00",89.0
+115,Porro Giorgio,Pall. Figino,P/G,88,22,"4,00",90.0
+116,Moscatelli Samuele,Pall. Como,A,86,18,"4,78",97.0
+117,De Gianni,Sportiva Sondrio,,86,24,"3,58",
+118,Bacchetti Nicolò,S.Ambrogio Mariano,P,85,22,"3,86",95.0
+119,Colombo Fabio,Polisportiva Senna,P,84,13,"6,46",86.0
+120,Castagna Mirko,Pol. Mandello Lario,G,84,17,"4,94",95.0
+121,Beretta Simone,Pall. Como,A,83,6,"13,83",93.0
+122,Aiani Alberto,Basket Tavernerio,,83,11,"7,55",
+123,Kaho Guy,Pol. Ars Rovagnate,G/A,82,6,"13,67",84.0
+124,Turati Tommaso,Pall. Como,G/A,81,16,"5,06",96.0
+125,Faccinelli Sandro ,Basket Club Tirano,C,79,9,"8,78",75.0
+126,Molteni Roberto,ABC Pall. Lomazzo,C,79,18,"4,39",79.0
+127,Fazio Stefano,Centro BK Pescate,,79,27,"2,93",
+128,Crippa Fabio,Rhinos Robbiate,A,78,12,"6,50",87.0
+129,Riva Simone Giovanni ,AS Dil. Morbegno,G,77,24,"3,21",94.0
+130,Polvara Vittorio,Centro BK Pescate,,76,21,"3,62",96.0
+131,Sironi Daniele,Casa Gioventù Erba,A,73,29,"2,52",91.0
+132,Colombo Davide,Casa Gioventù Erba,,72,20,"3,60",
+133,Negri Alessandro,Centro BK Pescate,,71,12,"5,92",
+134,Arnaboldi L.,Pall. Figino,,71,23,"3,09",
+135,Guanziroli Andrea ,Pol. Mandello Lario,P,71,25,"2,84",95.0
+136,Bertola Matteo,Casa Gioventù Erba,G,70,9,"7,78",91.0
+137,Verduzzo F.,Polisportiva Senna,,69,13,"5,31",
+138,Zucchi Paolo,Basket Tavernerio,G,69,17,"4,06",89.0
+139,Colombo Andrea,Casa Gioventù Erba,G,64,17,"3,76",95.0
+140,Ciceri Daniele,Pall. Como,G,62,14,"4,43",96.0
+141,Pedrotti Michele,Basket Club Tirano,A,59,11,"5,36",94.0
+142,Corti Gabriele,S.Ambrogio Mariano,A,58,10,"5,80",88.0
+143,Crippa Michele,Pol. Mandello Lario,C,58,22,"2,64",96.0
+144,Casati Paolo,Giardino LVS Basket Orsenigo,A,58,27,"2,15",94.0
+145,Susan Martino,ABC Pall. Lomazzo,A/C,57,8,"7,13",86.0
+146,Tocalli Federico ,AS Dil. Morbegno,G,57,12,"4,75",79.0
+147,Perillo Andrea,Centro BK Pescate,G,57,13,"4,38",84.0
+148,Giorgetta Davide,Basket Club Tirano,,57,22,"2,59",93.0
+149,Ciarini Luca,Rhinos Robbiate,A,56,18,"3,11",90.0
+150,Dal Molin Gregorio,Sportiva Sondrio,G,56,26,"2,15",97.0
+151,Giudes Fabio,Basket Club Tirano,A,55,13,"4,23",83.0
+152,Piras Marco,Pol. Ars Rovagnate,,54,24,"2,25",
+153,Rebughini,Rhinos Robbiate,,51,12,"4,25",
+154,Vismara Marco,S.Ambrogio Mariano,C,50,16,"3,13",83.0
+155,Riccioli Filippo,Pall. Como,P,48,14,"3,43",94.0
+156,Rovelli Andrea,Pall. Como,P,48,15,"3,20",96.0
+157,Sangalli Francesco,Virtus Meda,A,47,28,"1,68",95.0
+158,Rossi Stefano,ABC Pall. Lomazzo,P/G,46,14,"3,29",85.0
+159,Carenini Stefano,Pol. Mandello Lario,A/C,46,16,"2,88",90.0
+160,Attisani Ugo,Basket Club Tirano,P,46,18,"2,56",89.0
+161,Barni Dario,Giardino LVS Basket Orsenigo,C,46,20,"2,30",93.0
+162,Molteni Mauro,Polisportiva Senna,P/G,45,7,"6,43",88.0
+163,Mariani Massimo ,Casa Gioventù Erba,A,44,15,"2,93",79.0
+164,Mazzoleni,Virtus Meda,A,43,6,"7,17",98.0
+165,Auronzi Alessandro,ABC Pall. Lomazzo,A/C,41,24,"1,71",94.0
+166,Campeggi Giacomo ,Basket Tavernerio,C,40,3,"13,33",91.0
+167,Arosio A.,Pall. Figino,,40,18,"2,22",
+168,Cagliani Loris,Pol. Ars Rovagnate,,40,27,"1,48",94.0
+169,Sala Marco,Pol. Ars Rovagnate,,39,12,"3,25",98.0
+170,Galli Marco,Giardino LVS Basket Orsenigo,G,38,8,"4,75",88.0
+171,Zucchi Alan,Pol. Mandello Lario,C,37,7,"5,29",94.0
+172,Molteni Giorgio ,Basket Tavernerio,G,36,5,"7,20",88.0
+173,Danelli Lorenzo,Rhinos Robbiate,,36,22,"1,64",
+174,Aralla,Pol. Ars Rovagnate,,34,7,"4,86",
+175,Ruggia Alessandro ,Polisportiva Senna,C,34,10,"3,40",95.0
+176,Pogliagi A.,Pol. Mandello Lario,,34,11,"3,09",
+177,Ripamonti Luca,Rhinos Robbiate,,34,22,"1,55",
+178,Bogani Stefano,ABC Pall. Lomazzo,A/C,33,10,"3,30",85.0
+179,Villa F.,Pall. Como,,33,13,"2,54",
+180,Lacarbonara G.,Polisportiva Senna,,32,6,"5,33",
+181,Leone F.,Pall. Como,,32,15,"2,13",
+182,Patriarca Stefano ,Sportiva Sondrio,G,31,25,"1,24",93.0
+183,Colzani L.,Polisportiva Senna,,28,3,"9,33",
+184,Felice Civitillo Matteo,Giardino LVS Basket Orsenigo,A,28,5,"5,60",93.0
+185,Marchetti Luca,Sportiva Sondrio,C,27,23,"1,17",87.0
+186,Ciubotaru Artemie ,S.Ambrogio Mariano,C,26,21,"1,24",95.0
+187,Montanelli Stefano,Pol. Ars Rovagnate,,25,21,"1,19",
+188,Zorzan Jacopo,Rhinos Robbiate,G,22,8,"2,75",89.0
+189,Brenna Gionata,Basket Tavernerio,,22,16,"1,38",
+190,Carenini Luca,Pol. Mandello Lario,A,22,16,"1,38",93.0
+191,Minotti Lorenzo,Pall. Figino,A/C,21,21,"1,00",95.0
+192,Fazio Nicola,Pol. Mandello Lario,A,21,25,"0,84",73.0
+193,Orsi,Virtus Meda,,20,2,"10,00",
+194,Ronconi G. ,AS Dil. Morbegno,,19,2,"9,50",
+195,Caruso Riccardo,ABC Pall. Lomazzo,P/G,19,12,"1,58",94.0
+196,Colombo Alessandro,Casa Gioventù Erba,,18,9,"2,00",98.0
+197,Tarabini Nicola ,AS Dil. Morbegno,A,17,18,"0,94",96.0
+198,Nourou Hamza,Pall. Figino,A/C,15,14,"1,07",96.0
+199,Cornago Marco,AS Dil. Morbegno,G,15,18,"0,83",94.0
+200,Zucchi,Centro BK Pescate,,14,5,"2,80",
+201,Cagliani Eric,Pol. Ars Rovagnate,,14,13,"1,08",
+202,Colzani,Sportiva Sondrio,,14,23,"0,61",
+203,Boghi Matteo,S.Ambrogio Mariano,C,13,6,"2,17",89.0
+204,Tosetti D.,Pall. Como,,13,7,"1,86",
+205,Moscatelli S.,Pall. Figino,,12,2,"6,00",
+206,Melzi A.,Giardino LVS Basket Orsenigo,,12,2,"6,00",
+207,D'Apolito Andrea,Virtus Meda,A,12,5,"2,40",98.0
+208,Bernardi L.,Pall. Figino,,11,2,"5,50",
+209,Ceruti A.,Pall. Como,,11,4,"2,75",
+210,Triulzi N.,Pall. Como,,11,6,"1,83",
+211,Folini Luca,Sportiva Sondrio,C,11,9,"1,22",97.0
+212,Pizzo,Virtus Meda,,10,2,"5,00",
+213,Frigerio Marco,Casa Gioventù Erba,,10,14,"0,71",95.0
+214,Marinoni Luca,Rhinos Robbiate,G/A,10,20,"0,50",96.0
+215,Triulzi C.,Pall. Como,,9,4,"2,25",
+216,Nasatti Paolo,Centro BK Pescate,,9,4,"2,25",96.0
+217,Galli Daniele,Casa Gioventù Erba,,9,5,"1,80",
+218,Stefanelli,Sportiva Sondrio,,8,3,"2,67",
+219,Deandrea Christian,Basket Tavernerio,,8,4,"2,00",
+220,Colombo Giona,S.Ambrogio Mariano,A,8,5,"1,60",87.0
+221,Molteni Matteo,AS Dil. Morbegno,P,8,13,"0,62",95.0
+222,Meroni,Pall. Figino,,7,3,"2,33",
+223,Pavanetto Silvio,Pall. Figino,,7,4,"1,75",94.0
+224,Goretti Fabio,Casa Gioventù Erba,,7,7,"1,00",95.0
+225,Gnecchi Luca,Centro BK Pescate,A/C,7,9,"0,78",92.0
+226,Bianchi Davide,Basket Tavernerio,,7,15,"0,47",
+227,Civati,Centro BK Pescate,,6,1,"6,00",
+228,Benedini,Virtus Meda,,6,1,"6,00",
+229,Meda,Virtus Meda,,6,1,"6,00",
+230,Fusato Joele,Pol. Ars Rovagnate,,6,3,"2,00",
+231,Munarini Ivan,Sportiva Sondrio,P,6,4,"1,50",74.0
+232,Ranzoni M.,Pol. Ars Rovagnate,,6,12,"0,50",
+233,Riccioli R.,Pall. Como,,5,2,"2,50",
+234,Colombo Stefano,Pol. Ars Rovagnate,,5,3,"1,67",
+235,Casati Carlo,Rhinos Robbiate,,5,9,"0,56",
+236,Vallini Mario,Centro BK Pescate,G,5,12,"0,42",96.0
+237,Gerosa Mattia,S.Ambrogio Mariano,A,5,12,"0,42",95.0
+238,Ferrari Daniel,Basket Club Tirano,A,4,1,"4,00",89.0
+239,Rigamonti A.,Casa Gioventù Erba,,4,1,"4,00",
+240,Gottari,AS Dil. Morbegno,,4,2,"2,00",
+241,Romano,Casa Gioventù Erba,,4,3,"1,33",
+242,Quargnal M.,Polisportiva Senna,,4,5,"0,80",
+243,Marinoni A,Polisportiva Senna,,4,5,"0,80",
+244,Baruffaldi Mattia,Basket Club Tirano,,4,12,"0,33",
+245,Russo,Pol. Ars Rovagnate,,4,17,"0,24",
+246,Albertini Leonardo,Pol. Ars Rovagnate,,4,18,"0,22",
+247,Della Francesca,Polisportiva Senna,,3,1,"3,00",
+248,Andolina,Virtus Meda,,3,1,"3,00",
+249,Braghetto,Virtus Meda,,3,1,"3,00",
+250,Mariani,Virtus Meda,,3,2,"1,50",
+251,Azzola Niccolò,Pall. Como,A,3,2,"1,50",96.0
+252,Bertini,Sportiva Sondrio,,3,2,"1,50",
+253,Imperiali T.,Pall. Como,,3,2,"1,50",
+254,Spinelli Pier,Rhinos Robbiate,G,3,8,"0,38",97.0
+255,Soli Alberto,Polisportiva Senna,C,2,1,"2,00",79.0
+256,Figini Gabriele ,Polisportiva Senna,C,2,2,"1,00",72.0
+257,De Gaetano Samuele,Pol. Ars Rovagnate,,2,2,"1,00",
+258,Benvenuti,Sportiva Sondrio,,2,2,"1,00",
+259,Valsecchi D.,Casa Gioventù Erba,,2,2,"1,00",
+260,Castelnuovo,Pol. Ars Rovagnate,,2,3,"0,67",
+261,Mazzocchi,Pall. Figino,,2,3,"0,67",
+262,Antongini C.,Pall. Como,,2,3,"0,67",
+263,Molteni A.,Polisportiva Senna,,2,3,"0,67",
+264,Canali,Basket Club Tirano,,2,4,"0,50",
+265,Signore,Rhinos Robbiate,,2,4,"0,50",
+266,Volontè,ABC Pall. Lomazzo,,2,6,"0,33",
+267,Ferraioli,Pall. Figino,,2,7,"0,29",
+268,Orsi Giuseppe,Sportiva Sondrio,,1,2,"0,50",
+269,Moscatelli Andrea,Pall. Figino,P/G,1,6,"0,17",94.0

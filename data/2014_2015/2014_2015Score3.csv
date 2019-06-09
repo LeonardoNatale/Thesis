@@ -1,0 +1,243 @@
+n°,Giocatore,Squadra,Ruolo,P.S.,P.G,Media,Anno
+1,Reali Marco,Pall. Milano,A/C,563,30,"18,77",81.0
+2,Cogliati Emiliano ,Posal Sesto,P/G,522,30,"17,40",94.0
+3,Finazzi Alberto,N.Olympia Voghera,A,479,28,"17,11",87.0
+4,Farina Simone,Virtus Gambolò,G,463,30,"15,43",87.0
+5,Villa Gabriele,AS Dil Lesmo 2004,C,430,28,"15,36",84.0
+6,Zandalasini Andrea,Pall. Lungavilla,A,429,29,"14,79",89.0
+7,Becerra Fernando,N.Olympia Voghera,G,421,26,"16,19",81.0
+8,Cattaneo Nicolò,Nuova Pall. Vigevano,G,418,29,"14,41",88.0
+9,Passoni Marcello ,AS Dil Lesmo 2004,P,412,30,"13,73",89.0
+10,Barbirato Diego,Nuova Pall. Vigevano,A,407,30,"13,57",84.0
+11,Montagna Roberto,CSC BK Cusano,A/C,397,29,"13,69",83.0
+12,Mastrantoni Cristiano ,Pall. Milano,G/A,395,30,"13,17",86.0
+13,Aliprandi Andrea ,AS Dil Lesmo 2004,A,394,28,"14,07",94.0
+14,Benazzi Paolo,Pall.S.Pio Milano,A,389,27,"14,41",85.0
+15,Sala Davide,Aironi Pall. Robbio,G,389,28,"13,89",82.0
+16,De Andreis Diego,Pall.S.Pio Milano,G/A,389,30,"12,97",
+17,Leonardi Lorenzo,Soul Basket Milano,G/A,359,29,"12,38",85.0
+18,Susnjar Martin,Aironi Pall. Robbio,C,355,24,"14,79",79.0
+19,Kam Kader,Nuova Pall. Vigevano,A,351,30,"11,70",87.0
+20,Velardo Claudio,Ebro Basket Milano,A/C,348,27,"12,89",81.0
+21,Werich Stefano,Aironi Pall. Robbio,G/A,343,29,"11,83",85.0
+22,Borroni Marco,Ebro Basket Milano,A,338,27,"12,52",92.0
+23,Ceper Lorenzo,Nuova Pall. Vigevano,C,333,24,"13,88",79.0
+24,De Bellis Luigi ,Sant'Ambrogio Milano,P/G,332,28,"11,86",82.0
+25,Galati Gianluca,Ebro Basket Milano,G,329,25,"13,16",93.0
+26,Zanelli Enrico,Virtus Gambolò,A/C,322,28,"11,50",71.0
+27,Zappa Matteo,AS Dil Lesmo 2004,G,313,26,"12,04",91.0
+28,Campana Francesco,Aironi Pall. Robbio,G,301,27,"11,15",92.0
+29,Marin Daniele,CSC BK Cusano,G,301,28,"10,75",95.0
+30,Ogliaro Nicola,N.Olympia Voghera,A,294,29,"10,14",79.0
+31,Albertario Luca,Pall. Lungavilla,A,288,25,"11,52",90.0
+32,Quaroni Mauro,Nuova Pall. Vigevano,P,288,26,"11,08",79.0
+33,Zanchetta Giacomo ,Libertas Cernusco,P/G,286,28,"10,21",89.0
+34,Arioli Federico,N.Olympia Voghera,C,286,28,"10,21",90.0
+35,Fontana Marco,Ebro Basket Milano,P,286,29,"9,86",89.0
+36,Grimaldi Steano,Social Osa Milano,G,275,20,"13,75",87.0
+37,Aliaj Marsel,Pall. Milano,A/C,274,20,"13,70",88.0
+38,Fabricotti Matteo,Posal Sesto,G,267,29,"9,21",95.0
+39,Putignano Simone,Virtus Gambolò,A,267,30,"8,90",87.0
+40,Vasquez Checo,Pall. Lungavilla,P,266,25,"10,64",84.0
+41,Amicucci Valerio,Posal Sesto,A,262,28,"9,36",86.0
+42,Tortorici Tommaso ,Sant'Ambrogio Milano,A/C,261,23,"11,35",85.0
+43,Villani Max,N.Olympia Voghera,A,261,24,"10,88",83.0
+44,Piermattei Federico,Pall. Lungavilla,G,261,24,"10,88",89.0
+45,Antelli Luca,Libertas Cernusco,G,261,29,"9,00",89.0
+46,Garavaglia Giorgio ,Basketown Milano,C,260,23,"11,30",81.0
+47,Seratoni Andrea,Soul Basket Milano,A,249,27,"9,22",94.0
+48,Stenco Andrea,Ebro Basket Milano,A,249,29,"8,59",92.0
+49,Padova Andrea,N.Olympia Voghera,G/A,246,29,"8,48",89.0
+50,Degradi Daniele,Soul Basket Milano,G/A,238,29,"8,21",91.0
+51,Ardizzone Davide,Social Osa Milano,G/A,237,18,"13,17",88.0
+52,Gorla Paolo,Posal Sesto,A,234,29,"8,07",94.0
+53,Fasani Luca,Pall. Lungavilla,G,231,27,"8,56",88.0
+54,Mantica Fabrizio,Social Osa Milano,A,229,25,"9,16",94.0
+55,Almansi Filippo,Soul Basket Milano,G,227,25,"9,08",93.0
+56,Buschi Gualtiero ,Libertas Cernusco,A,227,26,"8,73",89.0
+57,Solaini Andrea,Pall. Milano,P/G,219,29,"7,55",73.0
+58,Sabatini Gualtiero,Pall.S.Pio Milano,P/G,215,28,"7,68",92.0
+59,Grassi Andrea,Posal Sesto,C,214,29,"7,38",94.0
+60,Cantarin Stefano ,Posal Sesto,A,213,30,"7,10",93.0
+61,Botto Francesco ,Basketown Milano,A,208,29,"7,17",90.0
+62,Menarini Massimo,Aironi Pall. Robbio,P,204,30,"6,80",78.0
+63,Capaccioli Luca ,Posal Sesto,A,198,22,"9,00",91.0
+64,Campeggi Michele,Pall. Lungavilla,G,198,28,"7,07",85.0
+65,Pobbiati Claudio ,Sant'Ambrogio Milano,G,197,26,"7,58",89.0
+66,Iosca Marco,Basketown Milano,A,196,25,"7,84",94.0
+67,Ghezzi Stefano,AS Dil Lesmo 2004,G,194,28,"6,93",91.0
+68,Veneroni Andrea,CSC BK Cusano,A,193,23,"8,39",83.0
+69,Mungiovì Massimiliano ,Libertas Cernusco,G,191,25,"7,64",88.0
+70,Bernucci Niccolò ,Basketown Milano,A,191,28,"6,82",82.0
+71,Verucchi Andrea,Social Osa Milano,G,187,29,"6,45",95.0
+72,Furlanetto Luca ,N.Olympia Voghera,P/G,184,27,"6,81",81.0
+73,Martinetti Luca,Aironi Pall. Robbio,C,184,30,"6,13",71.0
+74,Pagliai Luca,Pall. Lungavilla,A,183,26,"7,04",84.0
+75,Traorè Ismael,Libertas Cernusco,C,179,24,"7,46",82.0
+76,Teruzzi Christian ,Libertas Cernusco,A/C,179,27,"6,63",84.0
+77,Rizzo,Social Osa Milano,,178,23,"7,74",
+78,Caserini Davide,Soul Basket Milano,P,171,29,"5,90",91.0
+79,Giannetti Alessandro,Pall.S.Pio Milano,G/A,169,21,"8,05",90.0
+80,Perego Marco,Posal Sesto,P,169,27,"6,26",71.0
+81,Majerna Fabrizio ,CSC BK Cusano,P,167,27,"6,19",83.0
+82,Andreello Paolo,Aironi Pall. Robbio,A,166,29,"5,72",84.0
+83,Monfardini Davide,Basketown Milano,P,166,29,"5,72",94.0
+84,Sirtori Emanuele,Libertas Cernusco,C,165,19,"8,68",94.0
+85,Marin Davide,CSC BK Cusano,P,165,24,"6,88",94.0
+86,Lacchè Edoardo,Soul Basket Milano,G,165,26,"6,35",95.0
+87,Ricci Federico,Virtus Gambolò,A,163,25,"6,52",97.0
+88,Kapedani Ermal,Nuova Pall. Vigevano,C,159,21,"7,57",85.0
+89,Stigliano Enrico,Pall.S.Pio Milano,A,158,24,"6,58",82.0
+90,De Spuches Giuseppe,Basketown Milano,A,157,20,"7,85",96.0
+91,Armana Marco,Pall. Lungavilla,A,156,21,"7,43",83.0
+92,Sebastio Jacopo,Pall.S.Pio Milano,G,156,30,"5,20",82.0
+93,Moretti Paolo,Nuova Pall. Vigevano,P/G,154,30,"5,13",84.0
+94,Baroncini  Enrico,AS Dil Lesmo 2004,C,152,29,"5,24",88.0
+95,Ronca Paolo,Sant'Ambrogio Milano,A/C,146,27,"5,41",87.0
+96,De Mezza Giacomo,Pall.S.Pio Milano,C,146,27,"5,41",93.0
+97,Premier Andrea,Pall. Milano,A/C,143,24,"5,96",83.0
+98,Maniero Davide,AS Dil Lesmo 2004,A,141,22,"6,41",94.0
+99,Cazzaniga Stefano ,AS Dil Lesmo 2004,G,138,28,"4,93",85.0
+100,Bragagnolo Nicola,Pall. Milano,C,136,23,"5,91",86.0
+101,Nobis Federico,Pall. Milano,C,136,25,"5,44",92.0
+102,Bestetti Manuel ,CSC BK Cusano,A,134,26,"5,15",93.0
+103,Ragni Alberto,Virtus Gambolò,P,133,14,"9,50",90.0
+104,Zuccon Gianmarco ,Sant'Ambrogio Milano,G/A,130,22,"5,91",91.0
+105,Dal Bianco Marco ,Social Osa Milano,G,129,24,"5,38",86.0
+106,Prataviera Lorenzo ,Sant'Ambrogio Milano,P,128,13,"9,85",91.0
+107,Monzani Marcello,Ebro Basket Milano,P,126,26,"4,85",93.0
+108,Riccioni  Roberto,Pall. Milano,P,125,26,"4,81",77.0
+109,Maffezzoli Matteo,N.Olympia Voghera,P/G,118,27,"4,37",91.0
+110,Colombo Lorenzo,Virtus Gambolò,P,117,25,"4,68",97.0
+111,Saturnino Roberto ,Libertas Cernusco,A,114,29,"3,93",93.0
+112,Galluccio Enrico,Pall. Lungavilla,C,109,18,"6,06",92.0
+113,Tieghi Francesco,Basketown Milano,P,108,27,"4,00",81.0
+114,Gibertoni Alberto,Virtus Gambolò,P,107,26,"4,12",94.0
+115,Caffarra Stefano,Sant'Ambrogio Milano,A,105,8,"13,13",95.0
+116,Pozzi Stefano,Soul Basket Milano,A,105,19,"5,53",88.0
+117,Corti Alessandro,Ebro Basket Milano,G/A,105,21,"5,00",84.0
+118,Riva Enrico,Basketown Milano,G,104,22,"4,73",81.0
+119,Buzzin Gabriele,Virtus Gambolò,G,104,25,"4,16",97.0
+120,Petrosino Andrea,Basketown Milano,G/A,101,14,"7,21",93.0
+121,Munyutu Nvuh Idriss,N.Olympia Voghera,C,95,25,"3,80",93.0
+122,Pehar Marin,Virtus Gambolò,A/C,93,10,"9,30",90.0
+123,Seratoni Pietro,Soul Basket Milano,A,92,13,"7,08",92.0
+124,Li Volsi Andrea,CSC BK Cusano,G,92,28,"3,29",97.0
+125,Stenco Matteo,Ebro Basket Milano,A,90,28,"3,21",95.0
+126,Tupputi Christian,Virtus Gambolò,P,89,15,"5,93",94.0
+127,Ricci Eugenio,Basketown Milano,A,88,23,"3,83",84.0
+128,Faggiani Stefano ,Social Osa Milano,P,88,24,"3,67",87.0
+129,Bassi Matteo,Nuova Pall. Vigevano,G/A,88,29,"3,03",97.0
+130,Roselli,Social Osa Milano,,87,24,"3,63",
+131,Re Matteo,Soul Basket Milano,A/C,85,27,"3,15",93.0
+132,Magri Ruggero,Sant'Ambrogio Milano,P,84,16,"5,25",96.0
+133,Gazzola Tommaso ,Sant'Ambrogio Milano,A/C,83,16,"5,19",92.0
+134,Pirola Alessandro ,AS Dil Lesmo 2004,P,80,29,"2,76",94.0
+135,Zappa Matteo,Social Osa Milano,,79,17,"4,65",
+136,Williams,Sant'Ambrogio Milano,,78,24,"3,25",
+137,Giambastiani Guido,Soul Basket Milano,P,78,28,"2,79",92.0
+138,Tieghi Federico,Basketown Milano,P,77,13,"5,92",80.0
+139,Lo Presti Marco,CSC BK Cusano,A,75,24,"3,13",97.0
+140,Sirtori Simone,Libertas Cernusco,G,73,27,"2,70",97.0
+141,Sala Matteo,Virtus Gambolò,C,73,28,"2,61",75.0
+142,Orfei Matteo,Posal Sesto,G/A,72,17,"4,24",82.0
+143,Valgiovio Giacomo,Basketown Milano,P/G,71,22,"3,23",92.0
+144,Cavicchini Giulio ,Sant'Ambrogio Milano,G/A,67,9,"7,44",84.0
+145,Natoli Francesco,Soul Basket Milano,G,65,25,"2,60",96.0
+146,Banin Andrea,N.Olympia Voghera,G,65,26,"2,50",94.0
+147,Galtarossa Alessandro,Pall.S.Pio Milano,A,64,9,"7,11",83.0
+148,Capella Lorenzo,Sant'Ambrogio Milano,A,64,15,"4,27",90.0
+149,Battaioni Andrea,Libertas Cernusco,P,61,26,"2,35",97.0
+150,Maloba Muhemedi C.,Ebro Basket Milano,A,60,10,"6,00",82.0
+151,Zaccuri Francesco ,Social Osa Milano,G,59,19,"3,11",95.0
+152,Vigliaturo Massimo,Aironi Pall. Robbio,P,56,22,"2,55",95.0
+153,Mazzoli Mattia,Basketown Milano,A,54,16,"3,38",90.0
+154,Contardi Alessandro ,Sant'Ambrogio Milano,A,54,21,"2,57",94.0
+155,Gironi Andrea,CSC BK Cusano,G,53,15,"3,53",95.0
+156,Ghirardi Federico ,Pall. Milano,P,53,21,"2,52",88.0
+157,Colombo Riccardo ,Social Osa Milano,C,53,21,"2,52",90.0
+158,Maestri Fabio,N.Olympia Voghera,G/A,51,24,"2,13",94.0
+159,Siragusa Filippo ,Libertas Cernusco,A/C,50,28,"1,79",89.0
+160,Ciancio Tommaso,Libertas Cernusco,A,48,19,"2,53",97.0
+161,Ragni Alberto,Pall. Lungavilla,C,47,6,"7,83",90.0
+162,Siragusa Stefano,AS Dil Lesmo 2004,G/A,46,27,"1,70",94.0
+163,Petrosino Davide,Basketown Milano,G/A,45,9,"5,00",89.0
+164,Anzani Federico,Pall.S.Pio Milano,P,45,12,"3,75",94.0
+165,Marchini Enrico,Pall. Milano,G,41,6,"6,83",88.0
+166,Girelli Alessandro,Ebro Basket Milano,G,40,19,"2,11",97.0
+167,Baldissara,Soul Basket Milano,,38,9,"4,22",
+168,Manferdelli,Social Osa Milano,,38,24,"1,58",
+169,Terzi Luca,Posal Sesto,A,36,6,"6,00",95.0
+170,Villa Jacopo,Nuova Pall. Vigevano,A/C,36,10,"3,60",95.0
+171,Venezia Luca,CSC BK Cusano,A,35,16,"2,19",97.0
+172,Torti Andrea,Pall.S.Pio Milano,P,35,20,"1,75",86.0
+173,Benna Stefano,Pall.S.Pio Milano,A,34,18,"1,89",96.0
+174,Bozzini Luca,Sant'Ambrogio Milano,P,34,22,"1,55",94.0
+175,Di Prenda Matteo,Pall.S.Pio Milano,,32,11,"2,91",95.0
+176,Longoni Andrea,Soul Basket Milano,G/A,32,13,"2,46",94.0
+177,Alesse Andrea,Pall. Milano,G,30,8,"3,75",83.0
+178,Famurewa Steven,N.Olympia Voghera,G,30,23,"1,30",95.0
+179,Aversa,Sant'Ambrogio Milano,,29,8,"3,63",
+180,Botto Tommaso,Basketown Milano,A,29,15,"1,93",97.0
+181,Balicco Mattia,CSC BK Cusano,G,29,16,"1,81",91.0
+182,Petracin Andrea,Aironi Pall. Robbio,G,29,21,"1,38",95.0
+183,Pasquali Marco,Soul Basket Milano,C,28,14,"2,00",91.0
+184,Marinelli Matteo,Pall. Milano,C,26,3,"8,67",84.0
+185,Boriani Alessandro,CSC BK Cusano,P,26,14,"1,86",97.0
+186,Ottone Paolo,Pall. Milano,P,25,29,"0,86",96.0
+187,Bocca Andrea,Nuova Pall. Vigevano,,24,13,"1,85",
+188,Zuccon P.,Sant'Ambrogio Milano,,21,6,"3,50",
+189,Casiraghi Tommaso,CSC BK Cusano,,20,7,"2,86",
+190,Conversano Davide,Pall. Milano,G/A,20,11,"1,82",94.0
+191,Scanziani Matteo,Soul Basket Milano,G,19,10,"1,90",96.0
+192,Peloso Alessandro,Ebro Basket Milano,A,19,19,"1,00",95.0
+193,Bigi Mattia,CSC BK Cusano,A,17,4,"4,25",97.0
+194,Deluca Davide,AS Dil Lesmo 2004,A,15,13,"1,15",88.0
+195,Minorini,Ebro Basket Milano,,15,15,"1,00",
+196,Orsenigo Luca,Nuova Pall. Vigevano,G,15,21,"0,71",96.0
+197,Maga Gianluca,Pall. Lungavilla,,14,12,"1,17",
+198,Zucca Gianluca,Nuova Pall. Vigevano,A,14,13,"1,08",96.0
+199,Cazzaniga Tommaso,CSC BK Cusano,G,13,11,"1,18",97.0
+200,Colombo Giorgio ,AS Dil Lesmo 2004,A,13,14,"0,93",92.0
+201,Cucchetti,Virtus Gambolò,,12,8,"1,50",
+202,Cislaghi Marco,Aironi Pall. Robbio,G,12,13,"0,92",90.0
+203,Miotto Gianluca,Sant'Ambrogio Milano,G,11,5,"2,20",95.0
+204,Andreossi Davide,Virtus Gambolò,G/A,11,9,"1,22",94.0
+205,Valentini,Sant'Ambrogio Milano,,10,4,"2,50",
+206,Valota Raffaele,CSC BK Cusano,A,10,7,"1,43",97.0
+207,Ripamonti Fabio ,Basketown Milano,A/C,10,8,"1,25",93.0
+208,Piccio Christian,Virtus Gambolò,G/A,10,8,"1,25",97.0
+209,Clemente Andrea ,Posal Sesto,G/A,10,10,"1,00",95.0
+210,Fabiani Tommaso,Posal Sesto,P,10,19,"0,53",95.0
+211,Buongiorno Andrea,Pall. Milano,P/G,10,20,"0,50",94.0
+212,Ghezzi Matteo,CSC BK Cusano,P/G,9,8,"1,13",97.0
+213,Ferraro Aledssandro,Pall.S.Pio Milano,A,9,11,"0,82",96.0
+214,Vercesi,Pall. Lungavilla,,8,4,"2,00",
+215,Benoliel Lucas,Pall. Milano,A,8,14,"0,57",94.0
+216,Maga Lorenzo,Posal Sesto,G,7,5,"1,40",89.0
+217,Anton Andrei,CSC BK Cusano,,6,4,"1,50",97.0
+218,Minardi Luca,Basketown Milano,A/C,6,6,"1,00",95.0
+219,Ferrari Angelo,Virtus Gambolò,P,6,7,"0,86",97.0
+220,Pellin Fabrizio ,Posal Sesto,C,6,8,"0,75",94.0
+221,Fornaciari,Sant'Ambrogio Milano,,5,1,"5,00",
+222,Ghilardi,Basketown Milano,,5,1,"5,00",
+223,De Natale,Pall. Milano,,5,2,"2,50",
+224,Caretta,Social Osa Milano,,5,4,"1,25",
+225,Viscusi Christian,AS Dil Lesmo 2004,P/G,5,5,"1,00",98.0
+226,Tisato Alberto,Pall. Lungavilla,P,5,14,"0,36",95.0
+227,Vercelli Marco,Pall. Lungavilla,A,5,15,"0,33",83.0
+228,Monzani Claudio,Ebro Basket Milano,P,5,16,"0,31",97.0
+229,Catania Paolo,Soul Basket Milano,P,4,3,"1,33",93.0
+230,De Santis Nicolò,Pall.S.Pio Milano,C,4,4,"1,00",94.0
+231,Gaglioti F.,Basketown Milano,,4,4,"1,00",
+232,Soldati,Pall. Milano,,3,3,"1,00",
+233,Grandi Stefano,CSC BK Cusano,A,3,4,"0,75",97.0
+234,Diop,Sant'Ambrogio Milano,,3,4,"0,75",
+235,Marchese Alberto,Nuova Pall. Vigevano,G/A,3,9,"0,33",97.0
+236,Turini Alberto,N.Olympia Voghera,G,3,12,"0,25",96.0
+237,Terzi,Libertas Cernusco,,2,1,"2,00",
+238,Mejri,Sant'Ambrogio Milano,,2,1,"2,00",
+239,Cao Kevin,Pall.S.Pio Milano,G,2,2,"1,00",98.0
+240,Bega,Social Osa Milano,,2,2,"1,00",
+241,Vignati Andrea,Pall.S.Pio Milano,G,2,6,"0,33",96.0
+242,Drudi Samuele,N.Olympia Voghera,P,1,4,"0,25",79.0
